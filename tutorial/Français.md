@@ -18,6 +18,17 @@
 
 - Ensuite vous serez rediriger sur le menu de sélection des UniStore, vous sélectionnez `nds-shop.unistore`
 
-- Et vous verez un catalogue de jeux NDS
+- Et vous verez enfin le catalogue de jeux NDS
+
+
+## Notes
+
+- La vitesse de téléchargement est limitée à `35 Ko/s` ce qui signifie qu'un fichier de `30 Mo` prendra environ  `10 min` à se télécharger, voire un peu plus.
+
+- Par défaut, les ROMs sont placées dans le dossier `sdmc:/roms/nds/` sur la carte SD pour être lancées directement depuis TWiLight-Menu.
+
+- Par défaut, les boxarts doivent sont placés dans le dossier `sdmc:/_nds/TWiLight-Menu/boxart` sur la carte SD, afin qu'ils s'affichent dans TWiLight-Menu avant le lancement du jeu.
+
+## Demande de jeux
 
 - Il n'y a pas encore tout les jeux mais vous pouvez faire la demande sur notre Discord (pas encore disponible)

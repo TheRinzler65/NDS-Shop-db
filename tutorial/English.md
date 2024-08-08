@@ -18,4 +18,16 @@
 
 - You will see a catalog of NDS games.
 
+
+## Notes
+
+- The download speed is limited to `35 KB/s`, which means a `30 MB` file will take approximately `10 minutes` to download, or possibly a bit longer.
+
+- By default, ROMs are placed in the `sdmc:/roms/nds/` folder on the SD card to be launched directly from TWiLight Menu.
+
+- By default, boxarts should be placed in the `sdmc:/_nds/TWiLight-Menu/boxart` folder on the SD card so they can be displayed in TWiLight Menu before launching the game.
+
+
+## Game Requests
+
 - Not all games are available yet, but you can request them on our Discord (not available yet).
