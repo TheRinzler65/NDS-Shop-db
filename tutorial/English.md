@@ -1,8 +1,8 @@
 # Tutorial in English
 
-- Make sure you have installed Universal-Updater on your Nintendo 3DS console.
+- Make sure you have installed Universal-Updater [Universal-Updater](https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/favicon.ico) on your Nintendo 3DS console.
 
-- Then go to `Universal-Updater`.
+- Then go to `Universal-Updater` [Universal-Updater](https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/favicon.ico).
 
 - Go to ![Réglages](https://github.com/Universal-Team/Universal-Updater/raw/master/assets/gfx/sprites/settings.png)
 
