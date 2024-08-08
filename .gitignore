@@ -1,0 +1,15 @@
+*.DS_Store
+*__pycache__
+*.venv
+*docs
+*source
+*.yml
+*Dockerfile
+
+*_site
+*.sass-cache
+*.jekyll-cache
+*.jekyll-metadata
+*Gemfile.lock
+
+*temp/
