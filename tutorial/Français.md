@@ -4,11 +4,11 @@
 
 - Ensuite allez sur `Universal-Updater`
 
-- Allez dans les `Réglages`
+- Allez dans les ![Réglages](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/settings.png)
 
 - Faites `Sélectionner l'UniStore...`
 
-- Cliquez ensuite sur le bouton ` + ` sur l'écran du bas et ensuite sur le bouton ![QR Code](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/qr_code.png) sur l'écran du bas à gauche
+- Cliquez ensuite sur le bouton ![Ajout](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/add.png) sur l'écran du bas et ensuite sur le bouton ![QR Code](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/qr_code.png) sur l'écran du bas à gauche
 
 - Scannez ces deux QR Codes : 
 
@@ -17,6 +17,6 @@
 
 - Ensuite vous serez rediriger sur le menu de la selection des UniStore, vous selectionnez `nds-shop.unistore`
 
-- Et vous verez un grand catalogue de jeux NDS
+- Et vous verez un catalogue de jeux NDS
 
-- 
+- Il n'y a pas encore tout les jeux mais vous pouvez faire la demande sur notre [Discord]() : (pas encore disponible)
