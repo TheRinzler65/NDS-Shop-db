@@ -4,7 +4,7 @@
 *source
 *.yml
 *Dockerfile
-*docs/assets/files
+*docs
 *_site
 *.sass-cache
 *.jekyll-cache
