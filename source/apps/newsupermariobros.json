@@ -13,11 +13,11 @@
 		}
 	},
 	"screenshots": [{
-		"url": "",
-		"description": ""
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/screenshots/newsupermariobros/newsupermariobros.png",
+		"description": "Game Test"
 		},{
-		"url": "",
-		"description": ""
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/newsupermariobros.png",
 	"version": "Aucune",

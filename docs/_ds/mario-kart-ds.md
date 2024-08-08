@@ -16,7 +16,7 @@ layout: app
 qr:
   Mario Kart DS (Europe) (En,Fr,De,Es,It).nds: https://db.universal-team.net/assets/images/qr/mario-kart-ds-europe-enfrdeesit-nds.png
 screenshots:
-- description: Art
+- description: Games Test
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/screenshots/mariokartds/mariokartds.png
 - description: Boxart
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png
