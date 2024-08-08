@@ -31,19 +31,9 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip",
-				"output": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip"
-			},
-			{
-				"type": "extractFile",
-				"file": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip",
-				"input": "",
-				"output": "/roms/nds/Mario Kart DS (Europe) (En,Fr,De,Es,It).nds"
-			},
-			{
-                "type": "deleteFile",
-                "file": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip"
-            }
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Kart%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				"output": "/roms/nds/"
+			}
 		]
 	}
 }

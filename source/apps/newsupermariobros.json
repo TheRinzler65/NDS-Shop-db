@@ -8,35 +8,32 @@
 		"DS"
 	],
 	"downloads": {
-		"": {
-			"url": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/New-Super-Mario-Bros.-Europe-En-Fr-De-Es-It.zip"
+		"New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/New%20Super%20Mario%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
 		}
 	},
+	"screenshots": [{
+		"url": "",
+		"description": ""
+		},{
+		"url": "",
+		"description": ""
+	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/newsupermariobros.png",
 	"version": "Aucune",
 	"updated": "2024-08-07T16:33:58Z",
 	"scripts": {
-		"New Super Mario Bros. (Europe) (En,Fr,De,Es,It).ndss": [
+		"New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-				"output": "/_nds/TwiLightMenu/boxart/Mario Kart DS (Europe) (En Fr De Es It).png"
+				"output": "/_nds/TwiLightMenu/boxart/New Super Mario Bros. (Europe) (En,Fr,De,Es,It)).png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/New-Super-Mario-Bros.-Europe-En-Fr-De-Es-It.zip",
-				"output": "/New-Super-Mario-Bros.-Europe-En-Fr-De-Es-It.zip"
-			},
-			{
-				"type": "extractFile",
-				"file": "/New-Super-Mario-Bros.-Europe-En-Fr-De-Es-It.zip",
-				"input": "",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/New%20Super%20Mario%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
 				"output": "/roms/nds/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds"
-			},
-			{
-                "type": "deleteFile",
-                "file": "/New-Super-Mario-Bros.-Europe-En-Fr-De-Es-It.zip"
-            }
+			}
 		]
 	}
 }
