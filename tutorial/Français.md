@@ -2,18 +2,21 @@
 
 - Vérifier que vous avez bien installer Universal-Updater sur votre console Nintendo 3DS
 
-- Ensuite allez sur Universal-Updater
+- Ensuite allez sur `Universal-Updater`
 
-- Allez dans les Réglages
+- Allez dans les `Réglages`
 
-- Faites "Sélectionner l'UniStore..."
+- Faites `Sélectionner l'UniStore...`
 
-- Cliquez ensuite sur le bouton " + " sur l'écran du bas et ensuite sur le bouton " qr code " sur l'écran du bas à gauche
+- Cliquez ensuite sur le bouton ` + ` sur l'écran du bas et ensuite sur le bouton ![QR Code](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/qr_code.png) sur l'écran du bas à gauche
 
-- Scannez ces deux QR Codes (ils seront changés à l'avenir) : 
+- Scannez ces deux QR Codes : 
 
 ![nds-shop.unistore](https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/qr/qrcode-nds-shop.unistore.png)
 
 
-- Ensuite vous verrez
+- Ensuite vous serez rediriger sur le menu de la selection des UniStore, vous selectionnez `nds-shop.unistore`
 
+- Et vous verez un grand catalogue de jeux NDS
+
+- 

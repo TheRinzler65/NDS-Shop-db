@@ -6,9 +6,6 @@
 
 - [In English]()
 - [En Français]()
-- []()
-- []()
-- []()
 
 
 ## Uses
@@ -19,4 +16,4 @@ In development
 # Credits
 
 - [Universal-Updater](https://github.com/Universal-Team/Universal-Updater): program to make unistore file
-- [devkitPro](https://github.com/devkitPro) : text3ds
+- [devkitPro](https://github.com/devkitPro) : text3ds 
