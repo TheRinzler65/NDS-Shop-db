@@ -1,0 +1,49 @@
+{
+	"title": "Mario Kart DS",
+	"author": "Nintendo",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"Mario Kart DS (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Kart%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+		}
+	},
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/screenshots/mariokartds/mariokartds.png",
+		"description": "Art"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/mariokartds.png",
+	"version": "Aucune",
+	"updated": "2024-08-07T22:14:58Z",
+	"scripts": {
+		"Mario Kart DS (Europe) (En,Fr,De,Es,It).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+				"output": "/_nds/TwiLightMenu/boxart/Mario Kart DS (Europe) (En Fr De Es It).png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip",
+				"output": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip"
+			},
+			{
+				"type": "extractFile",
+				"file": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip",
+				"input": "",
+				"output": "/roms/nds/Mario Kart DS (Europe) (En,Fr,De,Es,It).nds"
+			},
+			{
+                "type": "deleteFile",
+                "file": "/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip"
+            }
+		]
+	}
+}

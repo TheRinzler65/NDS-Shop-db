@@ -1,10 +1,9 @@
 *.DS_Store
 *__pycache__
 *.venv
-*source
+*docs/assets/files
+*.txt
 *.yml
-*Dockerfile
-*docs
 *_site
 *.sass-cache
 *.jekyll-cache
