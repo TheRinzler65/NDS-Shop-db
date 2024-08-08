@@ -10,10 +10,10 @@
 
 ## Uses
 
-In development
+In development...
 
 
 # Credits
 
-- [Universal-Updater](https://github.com/Universal-Team/Universal-Updater): program to make unistore file
+- [Universal-Updater](https://github.com/Universal-Team/Universal-Updater): program to make UniStore file
 - [devkitPro](https://github.com/devkitPro) : text3ds 
