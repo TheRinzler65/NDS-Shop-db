@@ -12,7 +12,7 @@
 
 - Scan the QR Code below:
 
-            ![nds-shop.unistore](https://github.com/TheRinzler65/NDS-Shop/raw/main/qrcode-nds-shop.unistore.png)
+       ![nds-shop.unistore](https://github.com/TheRinzler65/NDS-Shop/raw/main/qrcode-nds-shop.unistore.png)
 
 - After that, you will be redirected to the UniStore selection menu. Select `nds-shop.unistore`.
 
