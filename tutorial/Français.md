@@ -27,7 +27,7 @@
 
 - Par défaut, les ROMs sont placées dans le dossier `sdmc:/roms/nds/` sur la carte SD pour être lancées directement depuis TWiLight-Menu.
 
-- Par défaut, les boxarts doivent sont placés dans le dossier `sdmc:/_nds/TWiLight-Menu/boxart` sur la carte SD, afin qu'ils s'affichent dans TWiLight-Menu avant le lancement du jeu.
+- Par défaut, les boxarts sont placés dans le dossier `sdmc:/_nds/TWiLight-Menu/boxart` sur la carte SD, afin qu'ils s'affichent dans TWiLight-Menu avant le lancement du jeu.
 
 ## Demande de jeux
 
