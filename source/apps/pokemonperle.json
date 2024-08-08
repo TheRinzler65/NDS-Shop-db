@@ -7,11 +7,6 @@
 	"systems": [
 		"DS"
 	],
-	"downloads": {
-		"": {
-			"url": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Pokemon-Version-Perle-France-Rev-5.zip"
-		}
-	},
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/pokemonperle.png",
 	"version": "v05",
 	"updated": "2024-08-07T17:25:20Z",
