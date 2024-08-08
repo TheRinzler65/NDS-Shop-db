@@ -4,8 +4,8 @@ categories:
 - game
 color: '#5d4343'
 color_bg: '#5d4343'
-icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/mariokartds.png
-image: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/mariokartds.png
+icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/mariokartds.png
+image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/mariokartds.png
 image_length: 940
 layout: app
 screenshots:

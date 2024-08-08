@@ -4,8 +4,8 @@ categories:
 - game
 color: '#be768b'
 color_bg: '#804f5d'
-icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/pokemonperle.png
-image: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/pokemonperle.png
+icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png
+image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image_length: 504
 layout: app
 stars: 0

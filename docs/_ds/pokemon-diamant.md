@@ -4,8 +4,8 @@ categories:
 - game
 color: '#52708e'
 color_bg: '#4a6580'
-icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/pokemondiamant.png
-image: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/pokemondiamant.png
+icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png
+image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image_length: 502
 layout: app
 stars: 0
