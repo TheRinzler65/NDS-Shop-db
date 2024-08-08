@@ -4,13 +4,14 @@
 
 - Ensuite allez sur `Universal-Updater`
 
-- Allez dans les ![Réglages](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/settings.png)
+- Allez dans ![Réglages](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/settings.png)
 
 - Faites `Sélectionner l'UniStore...`
 
 - Cliquez ensuite sur le bouton ![Ajout](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/add.png) sur l'écran du bas et ensuite sur le bouton ![QR Code](https://github.com/Universal-Team/Universal-Updater/blob/master/assets/gfx/sprites/qr_code.png) sur l'écran du bas à gauche
 
-- Scannez ces deux QR Codes : 
+- Scannez le QR Code ci-dessous : 
+
 
 ![nds-shop.unistore](https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/qr/qrcode-nds-shop.unistore.png)
 
