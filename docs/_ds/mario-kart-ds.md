@@ -1,23 +1,25 @@
 ---
-author: A
+author: Nintendo
 categories:
 - game
 color: '#5d4343'
 color_bg: '#5d4343'
 downloads:
-  Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip:
-    size: 19241060
-    size_str: 18 MiB
-    url: https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Mario-Kart-DS-Europe-En-Fr-De-Es-It.zip
+  Mario Kart DS (Europe) (En,Fr,De,Es,It).nds:
+    size: 33554432
+    size_str: 32 MiB
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Kart%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/mariokartds.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/icons/mariokartds.png
 image_length: 940
 layout: app
+qr:
+  Mario Kart DS (Europe) (En,Fr,De,Es,It).nds: https://db.universal-team.net/assets/images/qr/mario-kart-ds-europe-enfrdeesit-nds.png
 screenshots:
 - description: Art
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/screenshots/mariokartds/mariokartds.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/screenshots/mariokartds/mariokartds.png
+  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png
 stars: 0
 systems:
 - DS
