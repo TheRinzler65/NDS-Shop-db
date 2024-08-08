@@ -12,7 +12,7 @@
 
 - Scannez ces deux QR Codes : 
 
-https://github.com/TheRinzler65/NDS-Shop/blob/main/assets/images/qr/qrcode-nds-shop.unistore.png
+https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/qr/qrcode-nds-shop.unistore.png
 
-https://github.com/TheRinzler65/NDS-Shop/blob/main/assets/images/qr/qrcode-nds-shop-db.t3x.png
+https://github.com/TheRinzler65/NDS-Shop/raw/main/assets/images/qr/qrcode-nds-shop-db.t3x.png
 
