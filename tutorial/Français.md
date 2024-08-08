@@ -25,7 +25,7 @@
 
 ## Notes
 
-- La vitesse de téléchargement est limitée à `35 Ko/s` ce qui signifie qu'un fichier de `30 Mo` prendra environ  `10 min` à se télécharger, voire un peu plus.
+- La vitesse de téléchargement est limitée à `45 Ko/s` ce qui signifie qu'un fichier de `30 Mo` prendra environ  `10 min` à se télécharger, voire un peu plus.
 
 - Par défaut, les ROMs sont placées dans le dossier `sdmc:/roms/nds/` sur la carte SD pour être lancées directement depuis TWiLight-Menu.
 

@@ -23,7 +23,7 @@
 
 ## Notes
 
-- The download speed is limited to `35 KB/s`, which means a `30 MB` file will take approximately `10 minutes` to download, or possibly a bit longer.
+- The download speed is limited to `45 KB/s`, which means a `30 MB` file will take approximately `10 minutes` to download, or possibly a bit longer.
 
 - By default, ROMs are placed in the `sdmc:/roms/nds/` folder on the SD card to be launched directly from TWiLight Menu.
 
