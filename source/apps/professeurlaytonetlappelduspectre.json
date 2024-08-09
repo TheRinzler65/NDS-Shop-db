@@ -11,17 +11,17 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png.",
 		"description": "Game Test"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/tree/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png",
 	"version": "Normal",
 	"updated": "",
 	"scripts": {
 		"Professeur Layton et l'Appel du Spectre (France).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlappelduspectre.nds.png"
 			},
 			{
