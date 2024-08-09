@@ -27,9 +27,9 @@
 
 - By default, ROMs are placed in the `sdmc:/roms/nds/` folder on the SD card to be launched directly from TWiLight Menu.
 
-- By default, boxarts are placed in the `sdmc:/_nds/TWiLight-Menu/boxart` folder on the SD card so they can be displayed in TWiLight Menu before launching the game.
+- By default, boxarts are placed in the `sdmc:/_nds/TWiLightMenu/boxart` folder on the SD card so they can be displayed in TWiLight Menu before launching the game.
 
 
 ## Game Requests
 
-- Not all games are available yet, but you can request them in this [server Discord](https://discord.gg/tWuMKd8ZHm).
+- Not all games are available yet, but you can request them in [this server Discord](https://discord.gg/tWuMKd8ZHm).
