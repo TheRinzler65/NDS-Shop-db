@@ -1,4 +1,4 @@
-# Tutoriel en français
+# Instructions en français
 
 ![Universal-Updater](https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/favicon.ico)
 
@@ -33,4 +33,4 @@
 
 ## Demande de jeux
 
-- Il n'y a pas encore tout les jeux mais vous pouvez faire la demande sur notre Discord (pas encore disponible)
+- Il n'y a pas encore tout les jeux mais vous pouvez faire la demande sur ce [serveur Discord](https://discord.gg/tWuMKd8ZHm)

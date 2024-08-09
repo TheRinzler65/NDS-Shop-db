@@ -1,4 +1,4 @@
-# Tutorial in English
+# Instructions in English
 
 ![Universal-Updater](https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/favicon.ico)
 
@@ -32,4 +32,4 @@
 
 ## Game Requests
 
-- Not all games are available yet, but you can request them on our Discord (not available yet).
+- Not all games are available yet, but you can request them in this [server Discord](https://discord.gg/tWuMKd8ZHm).
