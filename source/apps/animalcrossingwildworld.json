@@ -1,0 +1,34 @@
+{
+    "title": "Animal Crossing - Wild World",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "",
+    "scripts": {
+        "Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/"
+            },
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/roms/nds/"
+            }
+        ]
+    }
+}
