@@ -8,10 +8,15 @@ icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image_length: 504
 layout: app
+screenshots:
+- description: Game Test
+  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonperle/pokemonperle.png
+- description: Boxart
+  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Perle%20(France)%20(Rev%20).nds.png
 stars: 0
 systems:
 - DS
 title: Pokemon Perle
 updated: '2024-08-07T17:25:20Z'
-version: v05
+version: Rev
 ---

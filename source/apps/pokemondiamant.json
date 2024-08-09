@@ -7,20 +7,27 @@
 	"systems": [
 		"DS"
 	],
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png",
+		"description": "Game Test"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png",
+		"description": "Boxart"
+	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png",
-	"version": "v05",
+	"version": "Rev",
 	"updated": "2024-08-07T17:25:20Z",
 	"scripts": {
-		"New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds": [
+		"PokemonVersion Diamant (France) (Rev ).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
-				"output": "/_nds/TwiLightMenu/boxart/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds.png"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Diamant (France) (Rev ).nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/New%20Super%20Mario%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
-				"output": "/roms/nds/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds"
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds",
+				"output": "/roms/nds/PokemonVersion Diamant (France) (Rev ).nds"
 			}
 		]
 	}

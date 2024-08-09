@@ -8,10 +8,15 @@ icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image_length: 502
 layout: app
+screenshots:
+- description: Game Test
+  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png
+- description: Boxart
+  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png
 stars: 0
 systems:
 - DS
 title: Pokemon Diamant
 updated: '2024-08-07T17:25:20Z'
-version: v05
+version: Rev
 ---
