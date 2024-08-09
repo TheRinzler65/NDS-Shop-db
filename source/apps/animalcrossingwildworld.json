@@ -14,9 +14,9 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Welcome%20to%20Animal%20CrossingWild%20World%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
-    "icon": "",
-    "version": "",
-    "updated": "",
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/animalcrossingwildworld.png",
+    "version": "Aucune",
+    "updated": "2024-08-09T21:49:58Z",
     "scripts": {
         "Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds": [
             {
