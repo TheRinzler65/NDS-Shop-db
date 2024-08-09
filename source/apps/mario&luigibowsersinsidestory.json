@@ -11,7 +11,7 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mario%26luigibowsersinsidestory/mario%26luigibowsersinsidestory.png",
         "description": "Game Test"
         },{
-        "url": "",
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20LuigiBowser's%20Inside%20Story%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
     "icon": "",
@@ -21,13 +21,13 @@
         "": [
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20LuigiBowser's%20Inside%20Story%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/roms/nds/"
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20%26%20LuigiBowser%27s%20Inside%20Story%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds"
             }
         ]
     }
