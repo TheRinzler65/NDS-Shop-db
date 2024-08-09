@@ -1,0 +1,35 @@
+{
+    "title": "Mario Party DS",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mariopartyds/mariopartyds.png",
+        "description": "Game Test"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario_Party_DS_Europe_EnFrDeEsIt.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mariopartyds.png",
+    "version": "Aucune",
+    "updated": "2024-08-09T23:02:58Z",
+    "scripts": {
+        "Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario_Party_DS_Europe_EnFrDeEsIt.png",
+                "output": "/_nds/TwiLightMenu/boxart/"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Party%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%20%29.nds",
+                "input": "",
+                "output": "/roms/nds/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds"
+            }
+        ]
+    }
+}
