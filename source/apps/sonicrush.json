@@ -14,11 +14,11 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Sonic%20Rush%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
-    "icon": "",
-    "version": "",
-    "updated": "",
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/sonicrush.png",
+    "version": "Basic",
+    "updated": "2024-08-10T00:31:58Z",
     "scripts": {
-        "": [
+        "Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
                 "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Sonic%20Rush%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
