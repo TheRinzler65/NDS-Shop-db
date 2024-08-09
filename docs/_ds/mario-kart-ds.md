@@ -18,5 +18,5 @@ systems:
 - DS
 title: Mario Kart DS
 updated: '2024-08-07T22:14:58Z'
-version: Aucune
+version: Normal
 ---

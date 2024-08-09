@@ -18,5 +18,5 @@ systems:
 - DS
 title: Animal Crossing - Wild World
 updated: '2024-08-09T21:49:58Z'
-version: Aucune
+version: Normal
 ---
