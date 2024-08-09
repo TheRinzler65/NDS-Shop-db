@@ -17,6 +17,6 @@ stars: 0
 systems:
 - DS
 title: 'Mario & Luigi : Bowser''s Inside Story'
-updated: '2024-08-09T21:49:58Z'
+updated: '2024-08-10T00:15:58Z'
 version: Aucune
 ---
