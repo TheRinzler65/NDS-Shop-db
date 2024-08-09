@@ -11,27 +11,17 @@
 	"version": "v05",
 	"updated": "2024-08-07T17:25:20Z",
 	"scripts": {
-		"Pokemon - Version Perle (France) (Rev 5).nds": [
+		"New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon%20-%20Version%20Perle%20(France)%20(Rev%205).nds.png",
-				"output": "/_nds/TwiLightMenu/boxart/Pokemon - Version Perle (France) (Rev 5).nds.png"
-			},
-            {
-				"type": "downloadFile",
-				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Pokemon-Version-Perle-France-Rev-5.zip",
-				"output": "/Pokemon-Version-Perle-France-Rev-5.zip"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
-				"type": "extractFile",
-				"file": "/Pokemon-Version-Perle-France-Rev-5.zip",
-				"input": "",
-				"output": "/roms/nds/Pokemon - Version Perle (France) (Rev 5).nds"
-			},
-            {
-                "type": "deleteFile",
-                "file": "/Pokemon-Version-Perle-France-Rev-5.zip"
-            }
+				"type": "downloadFile",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/New%20Super%20Mario%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				"output": "/roms/nds/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds"
+			}
 		]
 	}
 }
