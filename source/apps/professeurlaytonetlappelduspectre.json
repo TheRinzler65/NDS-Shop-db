@@ -8,26 +8,26 @@
 		"DS"
 	],
 	"screenshots": [{
-		"url": "",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png.",
 		"description": "Game Test"
 		},{
-		"url": "",
-		"description": ""
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"description": "Boxart"
 	}],
 	"icon": "",
 	"version": "Normal",
 	"updated": "",
 	"scripts": {
-		"": [
+		"Professeur Layton et l'Appel du Spectre (France).nds": [
 			{
 				"type": "downloadFile",
-				"file": "",
-				"output": "/_nds/TwiLightMenu/boxart/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlappelduspectre.nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
-				"output": "/roms/nds/"
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Professeur%20Layton%20et%20l%27Appel%20du%20Spectre%20%28France%29.nds",
+				"output": "/roms/nds/Professeur Layton et l'Appel du Spectre (France).nds"
 			}
 		]
 	}
