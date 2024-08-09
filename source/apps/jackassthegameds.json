@@ -1,0 +1,34 @@
+{
+    "title": "JackassThe Game DS",
+    "author": "Sensory Sweep Studios",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/jackassthegameds/jackassthegameds.png",
+        "description": "Game Test"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/JackassThe%20Game%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/jackassthegameds.png",
+    "version": "Aucune",
+    "updated": "2024-08-09T21:49:58Z",
+    "scripts": {
+        "JackassThe Game DS (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/JackassThe%20Game%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/JackassThe Game DS (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/JackassThe%20Game%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/JackassThe Game DS (Europe) (En,Fr,De,Es,It).nds"
+            }
+        ]
+    }
+}
