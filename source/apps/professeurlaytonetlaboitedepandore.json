@@ -1,0 +1,34 @@
+{
+	"title": "Professeur Layton et la Boite de Pandore",
+	"author": "Level-5",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"screenshots": [{
+		"url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/professeurlaytonetlaboitedepandore/professeurlaytonetlaboitedepandore.png",
+		"description": "Game Test"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/professeurlaytonetlaboitedepandore.png",
+	"version": "Normal",
+	"updated": "2024-08-10T01:26:00Z",
+	"scripts": {
+		"Professeur Layton et la Boite de Pandore (France) [b].nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlaboitedepandore.nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20%28France%29%20%5Bb%5D.nds",
+				"output": "/roms/nds/Professeur Layton et la Boite de Pandore (France) [b].nds"
+			}
+		]
+	}
+}
