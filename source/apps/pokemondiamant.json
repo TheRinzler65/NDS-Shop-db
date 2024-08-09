@@ -14,7 +14,7 @@
 		"Pokemon - Version Diamant (France) (Rev 5).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon%20-%20Version%20Diamant%20(France)%20(Rev%205).png",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon%20-%20Version%20Diamant%20(France)%20(Rev%205).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Pokemon - Version Diamant (France) (Rev 5).png"
 			},
 			{

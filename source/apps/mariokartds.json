@@ -18,7 +18,7 @@
 		"Mario Kart DS (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Mario Kart DS (Europe) (En Fr De Es It).png"
 			},
 			{
