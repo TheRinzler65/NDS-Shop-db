@@ -19,7 +19,7 @@
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
-				"output": "/_nds/TwiLightMenu/boxart/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).png"
+				"output": "/_nds/TwiLightMenu/boxart/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
 				"type": "downloadFile",
