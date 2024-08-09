@@ -11,18 +11,18 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mariopartyds/mariopartyds.png",
         "description": "Game Test"
         },{
-        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario_Party_DS_Europe_EnFrDeEsIt.png",
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds.png",
         "description": "Boxart"
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mariopartyds.png",
-    "version": "Aucune",
-    "updated": "2024-08-09T23:02:58Z",
+    "version": "Rev",
+    "updated": "2024-08-09T21:49:58Z",
     "scripts": {
         "Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds": [
             {
                 "type": "downloadFile",
-                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario_Party_DS_Europe_EnFrDeEsIt.png",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds.png"
             },
             {
                 "type": "downloadFile",
