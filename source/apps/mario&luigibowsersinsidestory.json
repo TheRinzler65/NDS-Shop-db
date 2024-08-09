@@ -14,11 +14,11 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20LuigiBowser's%20Inside%20Story%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
-    "icon": "",
-    "version": "",
-    "updated": "",
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mario%26luigibowsersinsidestory.png",
+    "version": "Aucune",
+    "updated": "2024-08-09T21:49:58Z",
     "scripts": {
-        "": [
+        "Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
                 "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20LuigiBowser's%20Inside%20Story%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
