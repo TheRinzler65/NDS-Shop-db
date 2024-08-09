@@ -1,0 +1,34 @@
+{
+	"title": "Professeur Layton et l'Appel du Spectre",
+	"author": "Level-5",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"screenshots": [{
+		"url": "",
+		"description": "Game Test"
+		},{
+		"url": "",
+		"description": ""
+	}],
+	"icon": "",
+	"version": "Normal",
+	"updated": "",
+	"scripts": {
+		"": [
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": "/_nds/TwiLightMenu/boxart/"
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": "/roms/nds/"
+			}
+		]
+	}
+}
