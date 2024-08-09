@@ -21,7 +21,7 @@
 		"Professeur Layton et la Boite de Pandore (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds).png",
 				"output": "/_nds/TwiLightMenu/boxart/professeurlaytonetlaboitedepandore.nds.png"
 			},
 			{
