@@ -17,6 +17,6 @@ stars: 0
 systems:
 - DS
 title: Kirby Super Star Ultra
-updated: '2024-08-10T15:38:00Z'
+updated: '2024-08-10T15:38:00+02:00'
 version: (Europe) (En,Fr,De,Es,It)
 ---

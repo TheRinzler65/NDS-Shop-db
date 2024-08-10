@@ -17,6 +17,6 @@ stars: 0
 systems:
 - DS
 title: Chrono Trigger
-updated: '2024-08-10T19:42:58Z'
+updated: '2024-08-10T19:42:58+02:00'
 version: (Europe) (En,Fr)
 ---

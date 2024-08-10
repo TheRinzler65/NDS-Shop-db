@@ -17,6 +17,6 @@ stars: 0
 systems:
 - DS
 title: 'Dr Kawashima''s Brain Training: How Old Is Your Brain'
-updated: '2024-08-10T17:26:58Z'
+updated: '2024-08-10T17:26:58+02:00'
 version: (Europe) (En,Fr,De,Es,It,Nl)
 ---

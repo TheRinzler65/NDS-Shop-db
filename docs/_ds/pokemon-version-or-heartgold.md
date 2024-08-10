@@ -17,6 +17,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Or HeartGold
-updated: '2024-08-10T17:28:00Z'
+updated: '2024-08-10T17:28:00+02:00'
 version: (France)
 ---
