@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: Sonic Rush
-update: '2024-08-10T00:35:58Z'
-updated: '---'
+updated: '2024-08-10T00:35:58+02:00'
 version: (Europe) (En,Ja,Fr,De,Es,It
 ---

@@ -21,7 +21,7 @@
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc.png",
 	"version": "(France)",
-	"update": "2024-08-10T16:40:00Z",
+	"updated": "2024-08-10T16:40:00+02:00",
 	"scripts": {
 		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": [
 			{

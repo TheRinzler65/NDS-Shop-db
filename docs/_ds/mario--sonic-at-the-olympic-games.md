@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: Mario & Sonic at the Olympic Games
-update: '2024-08-10T18:10:58Z'
-updated: '---'
+updated: '2024-08-10T18:10:58+02:00'
 version: (Europe) (En,Fr,De,Es,It)
 ---

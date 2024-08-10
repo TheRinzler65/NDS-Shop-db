@@ -7,6 +7,11 @@
     "systems": [
         "DS"
     ],
+    "downloads": {
+		"Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds"
+		}
+	},
     "screenshots": [{
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/codelyokoxana/codelyokoxana.png",
         "description": "Game preview"
@@ -16,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyokoxana.png",
     "version": "(Europe) (En,Fr)",
-    "update": "2024-08-10T22:37:58Z",
+    "updated": "2024-08-10T22:37:58+02:00",
     "scripts": {
         "Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds": [
             {

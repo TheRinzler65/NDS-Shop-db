@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/chronotrigger.png",
     "version": "(Europe) (En,Fr)",
-    "update": "2024-08-10T19:42:58Z",
+    "updated": "2024-08-10T19:42:58+02:00",
     "scripts": {
         "Chrono Trigger (Europe) (En,Fr).nds": [
             {

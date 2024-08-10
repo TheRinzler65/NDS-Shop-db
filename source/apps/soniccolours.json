@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/soniccolours.png",
     "version": "(Europe) (En,Ja,Fr,De,Es,It)",
-    "update": "2024-08-10T14:53:00Z",
+    "updated": "2024-08-10T14:53:00+02:00",
     "scripts": {
         "Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds": [
             {

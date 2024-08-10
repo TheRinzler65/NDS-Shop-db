@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/kirbysuperstarultra.png",
     "version": "(Europe) (En,Fr,De,Es,It)",
-    "update": "2024-08-10T15:38:00Z",
+    "updated": "2024-08-10T15:38:00+02:00",
     "scripts": {
         "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds": [
             {

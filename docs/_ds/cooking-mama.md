@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: Cooking Mama
-update: '2024-08-10T20:38:58Z'
-updated: '---'
+updated: '2024-08-10T20:38:58+02:00'
 version: (Europe) (En,Fr,It)
 ---

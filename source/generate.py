@@ -805,7 +805,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 				app["author"] if "author" in app else "",
 				app["description"] if "description" in app else "",
 				app["version"] if "version" in app else "",
-				parser.parse(app["updated"]).strftime("%Y-%m-%d at %H:%M (UTC+2)") if "updated" in app else "",
+				parser.parse(app["updated"]).strftime("%Y-%m-%d at %H:%M (UTC)") if "updated" in app else "",
 				app["categories"] if "categories" in app else [],
 				app["systems"].copy() if "systems" in app else [],
 				[x for x in app["screenshots"] if x["url"].endswith(".png") and "horihd" not in x["url"]] if "screenshots" in app else [],

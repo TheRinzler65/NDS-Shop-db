@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: WarioWare - Touched!
-update: '2024-08-10T16:30:00Z'
-updated: '---'
+updated: '2024-08-10T16:30:00+02:00'
 version: (Europe) (En,Fr,De,Es,It)
 ---

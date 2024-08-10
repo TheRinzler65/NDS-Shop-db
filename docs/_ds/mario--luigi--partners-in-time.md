@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: 'Mario & Luigi : Partners In Time'
-update: '2024-08-10T02:31:58Z'
-updated: '---'
+updated: '2024-08-10T02:31:58+02:00'
 version: (Europe) (En,Fr,De,Es,It)
 ---

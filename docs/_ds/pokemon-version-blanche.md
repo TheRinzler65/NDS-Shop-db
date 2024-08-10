@@ -24,7 +24,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Blanche
-update: '2024-08-10T16:40:00Z'
-updated: '---'
+updated: '2024-08-10T16:40:00+02:00'
 version: (France)
 ---
