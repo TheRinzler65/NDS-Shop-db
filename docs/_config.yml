@@ -3,7 +3,7 @@ title       : "NDS-Shop"
 description : "NDS-Shop - An online database of DS games in Universal-Updater"
 repo        : "TheRinzler65/NDS-Shop"
 color       : "#1d8056"
-image       : "https://universal-team.net/images/icons/universal-team.png"
+image       : "https://db-nds-shop.netlify.app/images/icons/nds-shop_logo.png"
 
 sass:
   sass_dir: _sass
