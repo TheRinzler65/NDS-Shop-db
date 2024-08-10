@@ -4,7 +4,6 @@ categories:
 - game
 color: '#9f5b3d'
 color_bg: '#804931'
-created: '2024-08-10T16:30:00+02:00'
 downloads:
   WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds:
     size: 33554432
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: WarioWare - Touched!
+update: '2024-08-10T16:30:00+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

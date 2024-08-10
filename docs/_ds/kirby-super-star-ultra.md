@@ -4,7 +4,6 @@ categories:
 - game
 color: '#be636c'
 color_bg: '#804248'
-created: '2024-08-10T15:38:00+02:00'
 downloads:
   Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Kirby Super Star Ultra
+update: '2024-08-10T15:38:00+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

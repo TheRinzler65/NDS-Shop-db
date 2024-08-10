@@ -4,7 +4,6 @@ categories:
 - game
 color: '#9a6d4d'
 color_bg: '#805a40'
-created: '2024-08-10T01:12:00+02:00'
 downloads:
   Professeur Layton et l'Appel du Spectre (France).nds:
     size: 268435456
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et l'Appel du Spectre
+update: '2024-08-10T01:12:00+02:00'
 updated: '---'
 version: (France)
 ---

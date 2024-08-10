@@ -4,7 +4,6 @@ categories:
 - game
 color: '#75978d'
 color_bg: '#638077'
-created: '2024-08-09T21:49:58+02:00'
 downloads:
   Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds:
     size: 33554432
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Party DS
+update: '2024-08-09T21:49:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

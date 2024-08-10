@@ -4,7 +4,6 @@ categories:
 - game
 color: '#5d4343'
 color_bg: '#5d4343'
-created: '2024-08-07T22:14:58+02:00'
 downloads:
   Mario Kart DS (Europe) (En,Fr,De,Es,It).nds:
     size: 33554432
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Kart DS
+update: '2024-08-07T22:14:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,7 +4,6 @@ categories:
 - game
 color: '#9a5d7c'
 color_bg: '#804d67'
-created: '2024-08-10T02:31:58+02:00'
 downloads:
   Mario & LuigiPartners in Time (Europe) (En,Fr,De,Es,It).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: 'Mario & Luigi : Partners In Time'
+update: '2024-08-10T02:31:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,7 +4,6 @@ categories:
 - game
 color: '#6f8c94'
 color_bg: '#607980'
-created: '2024-08-10T20:07:58+02:00'
 downloads:
   Dragon Quest IXSentinels of the Starry Skies (Europe) (En,Fr,De,Es,It).nds:
     size: 268435456
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Dragon Quest IX - Sentinels of the Starry Skies
+update: '2024-08-10T20:07:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,7 +4,6 @@ categories:
 - game
 color: '#b1994a'
 color_bg: '#806e35'
-created: '2024-08-10T16:26:00+02:00'
 downloads:
   PokemonVersion Platine (France) [b].nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Platine
+update: '2024-08-10T16:26:00+02:00'
 updated: '---'
 version: (France)
 ---

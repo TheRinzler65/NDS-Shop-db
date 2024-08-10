@@ -4,7 +4,6 @@ categories:
 - game
 color: '#52708e'
 color_bg: '#4a6580'
-created: '2024-08-07T17:25:20+02:00'
 downloads:
   PokemonVersion Diamant (France) (Rev ).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Diamant
+update: '2024-08-07T17:25:20+02:00'
 updated: '---'
 version: (France)
 ---

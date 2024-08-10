@@ -4,7 +4,6 @@ categories:
 - game
 color: '#8f7b62'
 color_bg: '#806e57'
-created: '2024-08-10T01:26:00+02:00'
 downloads:
   Professeur Layton et la Boite de Pandore (France) [b].nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et la Boite de Pandore
+update: '2024-08-10T01:26:00+02:00'
 updated: '---'
 version: (France)
 ---

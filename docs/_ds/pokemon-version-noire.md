@@ -4,7 +4,6 @@ categories:
 - game
 color: '#63453f'
 color_bg: '#63453f'
-created: '2024-08-10T16:54:00+02:00'
 downloads:
   PokemonVersion Noire (France) (NDSi Enhanced).nds:
     size: 268435456
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Noire
+update: '2024-08-10T16:54:00+02:00'
 updated: '---'
 version: (France)
 ---

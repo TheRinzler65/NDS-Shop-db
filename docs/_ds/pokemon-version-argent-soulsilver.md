@@ -4,7 +4,6 @@ categories:
 - game
 color: '#9cadca'
 color_bg: '#626d80'
-created: '2024-08-10T17:13:00+02:00'
 downloads:
   PokemonVersion Argent SoulSilver (France) [b].nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Argent SoulSilver
+update: '2024-08-10T17:13:00+02:00'
 updated: '---'
 version: (France)
 ---

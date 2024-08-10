@@ -4,7 +4,6 @@ categories:
 - game
 color: '#c8360b'
 color_bg: '#802207'
-created: '2024-08-10T17:26:58+02:00'
 downloads:
   Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds:
     size: 16777216
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: 'Dr Kawashima''s Brain Training: How Old Is Your Brain'
+update: '2024-08-10T17:26:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It,Nl)
 ---
