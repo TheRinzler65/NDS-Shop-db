@@ -18,5 +18,5 @@ systems:
 - DS
 title: JackassThe Game DS
 updated: '2024-08-09T21:49:58Z'
-version: Normal
+version: (Europe) (En,Fr,De,Es,It)
 ---

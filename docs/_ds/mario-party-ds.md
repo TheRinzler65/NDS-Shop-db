@@ -18,5 +18,5 @@ systems:
 - DS
 title: Mario Party DS
 updated: '2024-08-09T21:49:58Z'
-version: Rev
+version: (Europe) (En,Fr,De,Es,It)
 ---

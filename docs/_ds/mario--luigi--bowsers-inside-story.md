@@ -18,5 +18,5 @@ systems:
 - DS
 title: 'Mario & Luigi : Bowser''s Inside Story'
 updated: '2024-08-10T00:15:58Z'
-version: Normal
+version: (Europe) (En,Fr,De,Es,It)
 ---

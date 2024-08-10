@@ -18,5 +18,5 @@ systems:
 - DS
 title: 'Mario & Luigi : Partners In Time'
 updated: '2024-08-10T02:31:58Z'
-version: Normal
+version: (Europe) (En,Fr,De,Es,It)
 ---

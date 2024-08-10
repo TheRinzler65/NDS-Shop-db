@@ -18,5 +18,5 @@ systems:
 - DS
 title: Professeur Layton et l'Appel du Spectre
 updated: '2024-08-10T01:12:00Z'
-version: Normal
+version: (France)
 ---

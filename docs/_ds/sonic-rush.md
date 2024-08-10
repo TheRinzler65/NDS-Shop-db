@@ -18,5 +18,5 @@ systems:
 - DS
 title: Sonic Rush
 updated: '2024-08-10T00:35:58Z'
-version: Normal
+version: (Europe) (En,Ja,Fr,De,Es,It
 ---

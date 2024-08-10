@@ -18,5 +18,5 @@ systems:
 - DS
 title: New Super Mario Bros
 updated: '2024-08-08T23:02:58Z'
-version: Normal
+version: (Europe) (En,Fr,De,Es,It)
 ---

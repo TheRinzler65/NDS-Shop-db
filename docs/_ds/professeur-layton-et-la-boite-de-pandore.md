@@ -18,5 +18,5 @@ systems:
 - DS
 title: Professeur Layton et la Boite de Pandore
 updated: '2024-08-10T01:26:00Z'
-version: Normal
+version: (France)
 ---

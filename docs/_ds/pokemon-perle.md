@@ -18,5 +18,5 @@ systems:
 - DS
 title: Pokemon Perle
 updated: '2024-08-07T17:25:20Z'
-version: Rev
+version: (France)
 ---
