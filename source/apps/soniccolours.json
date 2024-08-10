@@ -8,8 +8,8 @@
         "DS"
     ],
     "screenshots": [{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/soniccolours/soniccolours.png",
+        "description": "Game preview"
         },{
         "url": "",
         "description": ""
@@ -18,16 +18,16 @@
     "version": "",
     "updated": "",
     "scripts": {
-        "": [
+        "Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
                 "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "output": "/_nds/TwiLightMenu/boxart/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/roms/nds/"
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Sonic%20Colours%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds"
             }
         ]
     }
