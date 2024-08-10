@@ -11,23 +11,23 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/marioslambasketball/marioslambasketball.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20Slam%20Basketball%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
-    "updated": "",
+    "updated": "2024-08-10T15:52:00Z",
     "scripts": {
         "": [
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20Slam%20Basketball%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
                 "file": "",
-                "output": "/roms/nds/"
+                "output": "/roms/nds/Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds"
             }
         ]
     }
