@@ -3,7 +3,6 @@
 *.venv
 *docs/assets/files
 *.txt
-*.yml
 *_site
 *.sass-cache
 *.jekyll-cache
