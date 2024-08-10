@@ -14,9 +14,9 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Inazuma%20Eleven%20(France).nds.png",
         "description": "Boxart"
     }],
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/inazumaeleven.png",
     "version": "(France)",
-    "updated": "",
+    "updated": "2024-08-10T19:55:58Z",
     "scripts": {
         "Inazuma Eleven (France).nds": [
             {
@@ -26,7 +26,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20%28France%29.nds",
                 "output": "/roms/nds/Inazuma Eleven (France).nds"
             }
         ]
