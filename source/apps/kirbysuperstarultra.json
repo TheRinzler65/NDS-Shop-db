@@ -15,7 +15,7 @@
         "description": "Boxart"
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/kirbysuperstarultra.png",
-    "version": "Normal (Europe)",
+    "version": "(Europe)",
     "updated": "2024-08-10T15:38:00Z",
     "scripts": {
         "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds": [
