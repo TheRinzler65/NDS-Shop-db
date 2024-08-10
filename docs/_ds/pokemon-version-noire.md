@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Noire
-update: '2024-08-10T16:54:00+02:00'
+update: '2024-08-10T16:54:00Z'
 updated: '---'
 version: (France)
 ---

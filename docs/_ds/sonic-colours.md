@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Sonic Colours
-update: '2024-08-10T14:53:00+02:00'
+update: '2024-08-10T14:53:00Z'
 updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It)
 ---

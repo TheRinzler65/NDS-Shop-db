@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Inazuma Eleven
-update: '2024-08-10T19:55:58+02:00'
+update: '2024-08-10T19:55:58Z'
 updated: '---'
 version: (France)
 ---

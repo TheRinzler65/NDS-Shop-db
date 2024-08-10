@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: JackassThe Game DS
-update: '2024-08-09T21:49:58+02:00'
+update: '2024-08-09T21:49:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

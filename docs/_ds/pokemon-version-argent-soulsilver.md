@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Argent SoulSilver
-update: '2024-08-10T17:13:00+02:00'
+update: '2024-08-10T17:13:00Z'
 updated: '---'
 version: (France)
 ---
