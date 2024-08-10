@@ -1,0 +1,34 @@
+{
+    "title": "Code Lyoko",
+    "author": "The Game Factory",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/codelyoko/codelyoko.png",
+        "description": "Game preview"
+        },{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Code%20Lyoko%20(Europe)%20(En%2CFr%2CEs%2CIt).nds.png",
+        "description": "Boxart"
+    }],
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyoko.png",
+    "version": "(Europe) (En,Fr,Es,It)",
+    "created": "2024-08-10T22:24:58+02:00",
+    "scripts": {
+        "Code Lyoko (Europe) (En,Fr,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Code%20Lyoko%20(Europe)%20(En%2CFr%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Code Lyoko (Europe) (En,Fr,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Code Lyoko (Europe) (En,Fr,Es,It).nds"
+            }
+        ]
+    }
+} 

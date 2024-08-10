@@ -1,0 +1,34 @@
+{
+    "title": "Code Lyoko: Fall of X.A.N.A.",
+    "author": "The Game Factory",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/codelyokoxana/codelyokoxana.png",
+        "description": "Game preview"
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "created": "",
+    "scripts": {
+        "": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/"
+            },
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/roms/nds/"
+            }
+        ]
+    }
+} 
