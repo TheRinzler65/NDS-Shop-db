@@ -1,0 +1,34 @@
+{
+	"title": "Pokemon Noire",
+	"author": "",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonnoire/pokemonnoire.png",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png",
+	"version": "(France)",
+	"updated": "2024-08-10T01:26:00Z",
+	"scripts": {
+		"PokemonVersion Noire (France) (NDSi Enhanced).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Noire (France) (NDSi Enhanced).nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": "/roms/nds/PokemonVersion Noire (France) (NDSi Enhanced).nds"
+			}
+		]
+	}
+}
