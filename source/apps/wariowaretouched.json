@@ -11,23 +11,23 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/wariowaretouched/wariowaretouched.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/WarioWareTouched!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
     "updated": "",
     "scripts": {
-        "": [
+        "WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/WarioWareTouched!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/roms/nds/"
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/WarioWareTouched%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds"
             }
         ]
     }
