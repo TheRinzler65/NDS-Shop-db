@@ -1,0 +1,34 @@
+{
+	"title": "Pokemon Platine",
+	"author": "Nintendo / GameFreak",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
+	"version": "",
+	"updated": "",
+	"scripts": {
+		"": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/"
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": "/roms/nds/"
+			}
+		]
+	}
+}
