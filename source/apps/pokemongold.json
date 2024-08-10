@@ -1,6 +1,6 @@
 {
 	"title": "Pokemon Version Or HeartGold",
-	"author": "Nin",
+	"author": "Nintendo / GameFreak",
 	"categories": [
 		"game"
 	],
@@ -11,17 +11,17 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemongold/pokemongold.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Or%20HeartGold%20(France)%20%5Bb%5D.nds.png",
 		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemongold.png",
 	"version": "(France)",
-	"updated": "2024-08-10T01:26:00Z",
+	"updated": "2024-08-10T17:28:00Z",
 	"scripts": {
 		"PokemonVersion Or HeartGold (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Or%20HeartGold%20(France)%20%5Bb%5D.nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Or HeartGold (France) [b].nds.png"
 			},
 			{
