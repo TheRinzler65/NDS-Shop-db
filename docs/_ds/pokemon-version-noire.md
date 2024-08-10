@@ -1,5 +1,5 @@
 ---
-author: ''
+author: Nintendo / GameFreak
 categories:
 - game
 color: '#63453f'
