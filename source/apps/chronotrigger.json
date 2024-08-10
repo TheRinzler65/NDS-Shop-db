@@ -1,0 +1,34 @@
+{
+    "title": "Chrono Trigger",
+    "author": "Square Enix.",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "",
+    "scripts": {
+        "": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/"
+            },
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/roms/nds/"
+            }
+        ]
+    }
+}
