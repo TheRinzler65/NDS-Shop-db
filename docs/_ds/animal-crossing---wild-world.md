@@ -24,6 +24,6 @@ stars: 0
 systems:
 - DS
 title: Animal Crossing - Wild World
-updated: '2024-08-09T21:49:58Z'
+updated: '2024-08-10T19:40:00+02:00'
 version: (Europe) (En,Fr,De,Es,It)
 ---
