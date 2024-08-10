@@ -24,7 +24,7 @@ screenshots:
 stars: 0
 systems:
 - DS
-title: New Super Mario Bros
+title: New Super Mario Bros.
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---
