@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/dragonquestix.png",
     "version": "(Europe) (En,Fr,De,Es,It)",
-    "update": "2024-08-10T20:07:58+02:00",
+    "update": "2024-08-10T20:07:58+Z",
     "scripts": {
         "Dragon Quest IXSentinels of the Starry Skies (Europe) (En,Fr,De,Es,It).nds": [
             {

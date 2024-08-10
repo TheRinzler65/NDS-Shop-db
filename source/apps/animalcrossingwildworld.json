@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/animalcrossingwildworld.png",
     "version": "(Europe) (En,Fr,De,Es,It)",
-    "created": "2024-08-09T21:49:58+02:00",
+    "created": "2024-08-09T21:49:58+Z",
     "scripts": {
         "Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds": [
             {
