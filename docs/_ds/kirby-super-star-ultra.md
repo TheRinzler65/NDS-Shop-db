@@ -4,6 +4,7 @@ categories:
 - game
 color: '#be636c'
 color_bg: '#804248'
+created: '2024-08-10T15:38:00+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/kirbysuperstarultra.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/kirbysuperstarultra.png
 image_length: 813
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Kirby Super Star Ultra
-updated: '2024-08-10T15:38:00+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#c77e69'
 color_bg: '#805143'
+created: '2024-08-10T20:38:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/cookingmama.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/cookingmama.png
 image_length: 799
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Cooking Mama
-updated: '2024-08-10T20:38:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,It)
 ---

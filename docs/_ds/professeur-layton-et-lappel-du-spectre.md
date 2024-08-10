@@ -4,6 +4,7 @@ categories:
 - game
 color: '#9a6d4d'
 color_bg: '#805a40'
+created: '2024-08-10T01:12:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/professeurlaytonetlappelduspectre.png
 image_length: 493
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et l'Appel du Spectre
-updated: '2024-08-10T01:12:00+02:00'
+updated: '---'
 version: (France)
 ---

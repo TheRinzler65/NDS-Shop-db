@@ -4,6 +4,7 @@ categories:
 - game
 color: '#9a5d7c'
 color_bg: '#804d67'
+created: '2024-08-10T02:31:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image_length: 1274
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: 'Mario & Luigi : Partners In Time'
-updated: '2024-08-10T02:31:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

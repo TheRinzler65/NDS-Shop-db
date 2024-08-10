@@ -4,6 +4,7 @@ categories:
 - game
 color: '#75978d'
 color_bg: '#638077'
+created: '2024-08-09T21:49:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mariopartyds.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mariopartyds.png
 image_length: 761
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Mario Party DS
-updated: '2024-08-09T21:49:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

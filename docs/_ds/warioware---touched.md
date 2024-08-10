@@ -4,6 +4,7 @@ categories:
 - game
 color: '#9f5b3d'
 color_bg: '#804931'
+created: '2024-08-10T16:30:00+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/wariowaretouched.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/wariowaretouched.png
 image_length: 602
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: WarioWare - Touched!
-updated: '2024-08-10T16:30:00+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

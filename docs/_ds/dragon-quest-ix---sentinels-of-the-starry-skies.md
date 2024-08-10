@@ -4,6 +4,7 @@ categories:
 - game
 color: '#6f8c94'
 color_bg: '#607980'
+created: '2024-08-10T20:07:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/dragonquestix.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/dragonquestix.png
 image_length: 898
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Dragon Quest IX - Sentinels of the Starry Skies
-updated: '2024-08-10T20:07:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#6c78a2'
 color_bg: '#555e80'
+created: '2024-08-10T00:35:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/sonicrush.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/sonicrush.png
 image_length: 801
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Sonic Rush
-updated: '2024-08-10T00:35:58+02:00'
+updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#be768b'
 color_bg: '#804f5d'
+created: '2024-08-07T17:25:20+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png
 image_length: 504
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Perle
-updated: '2024-08-07T17:25:20+02:00'
+updated: '---'
 version: (France)
 ---

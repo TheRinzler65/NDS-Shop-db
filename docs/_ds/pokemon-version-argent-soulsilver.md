@@ -4,6 +4,7 @@ categories:
 - game
 color: '#9cadca'
 color_bg: '#626d80'
+created: '2024-08-10T17:13:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonargent.png
 image_length: 552
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Argent SoulSilver
-updated: '2024-08-10T17:13:00+02:00'
+updated: '---'
 version: (France)
 ---

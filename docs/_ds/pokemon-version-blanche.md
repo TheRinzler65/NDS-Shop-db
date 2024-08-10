@@ -4,6 +4,7 @@ categories:
 - game
 color: '#bd9b93'
 color_bg: '#806963'
+created: '2024-08-10T16:40:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc.png
 image_length: 488
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Blanche
-updated: '2024-08-10T16:40:00+02:00'
+updated: '---'
 version: (France)
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#6882c3'
 color_bg: '#445580'
+created: '2024-08-10T14:53:00+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/soniccolours.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/soniccolours.png
 image_length: 1052
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Sonic Colours
-updated: '2024-08-10T14:53:00+02:00'
+updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It)
 ---

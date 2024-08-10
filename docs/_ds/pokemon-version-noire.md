@@ -4,6 +4,7 @@ categories:
 - game
 color: '#63453f'
 color_bg: '#63453f'
+created: '2024-08-10T16:54:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image_length: 480
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Noire
-updated: '2024-08-10T16:54:00+02:00'
+updated: '---'
 version: (France)
 ---

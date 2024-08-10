@@ -4,6 +4,7 @@ categories:
 - game
 color: '#e6b45c'
 color_bg: '#806433'
+created: '2024-08-10T17:28:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemongold.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemongold.png
 image_length: 541
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Or HeartGold
-updated: '2024-08-10T17:28:00+02:00'
+updated: '---'
 version: (France)
 ---

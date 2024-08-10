@@ -4,6 +4,7 @@ categories:
 - game
 color: '#c8360b'
 color_bg: '#802207'
+created: '2024-08-10T17:26:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/drkawashimabrain.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/drkawashimabrain.png
 image_length: 421
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: 'Dr Kawashima''s Brain Training: How Old Is Your Brain'
-updated: '2024-08-10T17:26:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It,Nl)
 ---

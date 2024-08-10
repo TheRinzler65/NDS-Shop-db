@@ -4,6 +4,7 @@ categories:
 - game
 color: '#36454f'
 color_bg: '#36454f'
+created: '2024-08-09T21:49:58+02:00'
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/jackassthegameds.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/jackassthegameds.png
 image_length: 784
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: JackassThe Game DS
-updated: '2024-08-09T21:49:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#d28624'
 color_bg: '#805116'
+created: '2024-08-08T23:02:58+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/newsupermariobros.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/newsupermariobros.png
 image_length: 620
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: New Super Mario Bros
-updated: '2024-08-08T23:02:58+02:00'
+updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,6 +4,7 @@ categories:
 - game
 color: '#8f7b62'
 color_bg: '#806e57'
+created: '2024-08-10T01:26:00+02:00'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/professeurlaytonetlaboitedepandore.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/professeurlaytonetlaboitedepandore.png
 image_length: 460
@@ -17,6 +18,6 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et la Boite de Pandore
-updated: '2024-08-10T01:26:00+02:00'
+updated: '---'
 version: (France)
 ---
