@@ -11,42 +11,6 @@
         "page_title": "DS",
         "url": "/ds",
         "key": "d"
-      },
-      {
-        "title": "Emulators & Hypervisors",
-        "page_title": "DS - Emulators & Hypervisors",
-        "url": "/ds/category/emulator",
-        "i18n": "cat-emulator"
-      },
-      {
-        "title": "Extras",
-        "page_title": "DS - Extras",
-        "url": "/ds/category/extra",
-        "i18n": "cat-extra"
-      },
-      {
-        "title": "Games",
-        "page_title": "DS - Games",
-        "url": "/ds/category/game",
-        "i18n": "cat-game"
-      },
-      {
-        "title": "Save Tools",
-        "page_title": "DS - Save Tools",
-        "url": "/ds/category/save-tool",
-        "i18n": "cat-save-tool"
-      },
-      {
-        "title": "Translations",
-        "page_title":"DS - Translations",
-        "url": "/ds/category/translation",
-        "i18n": "cat-translation"
-      },
-      {
-        "title": "Utilities",
-        "page_title": "DS - Utilities",
-        "url": "/ds/category/utility",
-        "i18n": "cat-utility"
       }
     ]
   }, {
