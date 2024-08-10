@@ -8,7 +8,7 @@
         "DS"
     ],
     "downloads": {
-		"Chrono Trigger (Europe) (En,Fr).nds": {
+		"source/apps/chronotrigger.json": {
 			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.nds"
 		}
 	},
@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/chronotrigger.png",
     "version": "(Europe) (En,Fr)",
-    "created": "2024-08-10T19:42:58+02:00",
+    "update": "2024-08-10T19:42:58+02:00",
     "scripts": {
         "Chrono Trigger (Europe) (En,Fr).nds": [
             {

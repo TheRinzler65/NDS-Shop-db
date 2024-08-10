@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/marioslambasketball.png",
     "version": "(Europe) (En,Ja,Fr,De,Es,It)",
-    "created": "2024-08-10T15:52:00+02:00",
+    "update": "2024-08-10T15:52:00+02:00",
     "scripts": {
         "Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds": [
             {
