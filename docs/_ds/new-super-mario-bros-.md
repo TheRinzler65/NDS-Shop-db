@@ -4,7 +4,6 @@ categories:
 - game
 color: '#d28624'
 color_bg: '#805116'
-created: '2024-08-08T23:02:58+02:00'
 downloads:
   New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds:
     size: 33554432
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: New Super Mario Bros.
+update: '2024-08-08T23:02:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

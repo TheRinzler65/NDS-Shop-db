@@ -4,7 +4,6 @@ categories:
 - game
 color: '#36454f'
 color_bg: '#36454f'
-created: '2024-08-09T21:49:58+02:00'
 downloads:
   JackassThe Game DS (Europe) (En,Fr,De,Es,It).nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: JackassThe Game DS
+update: '2024-08-09T21:49:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

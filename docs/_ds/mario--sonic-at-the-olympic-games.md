@@ -4,7 +4,6 @@ categories:
 - game
 color: '#8e6d8f'
 color_bg: '#7f6180'
-created: '2024-08-10T18:10:58+02:00'
 downloads:
   Mario & Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It).nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario & Sonic at the Olympic Games
+update: '2024-08-10T18:10:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

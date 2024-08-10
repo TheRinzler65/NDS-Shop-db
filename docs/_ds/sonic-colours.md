@@ -4,7 +4,6 @@ categories:
 - game
 color: '#6882c3'
 color_bg: '#445580'
-created: '2024-08-10T14:53:00+02:00'
 downloads:
   Sonic Colours (Europe) (En,Ja,Fr,De,Es,It).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Sonic Colours
+update: '2024-08-10T14:53:00+02:00'
 updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It)
 ---

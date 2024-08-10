@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mariopartyds.png",
     "version": "(Europe) (En,Fr,De,Es,It)",
-    "update": "2024-08-09T21:49:58+02:00",
+    "update": "2024-08-09T21:49:58Z",
     "scripts": {
         "Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds": [
             {

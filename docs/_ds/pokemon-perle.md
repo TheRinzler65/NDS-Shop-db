@@ -4,7 +4,6 @@ categories:
 - game
 color: '#be768b'
 color_bg: '#804f5d'
-created: '2024-08-07T17:25:20+02:00'
 downloads:
   PokemonVersion Perle (France) (Rev ).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Perle
+update: '2024-08-07T17:25:20+02:00'
 updated: '---'
 version: (France)
 ---

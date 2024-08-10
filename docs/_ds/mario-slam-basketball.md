@@ -4,7 +4,6 @@ categories:
 - game
 color: '#5e7c9a'
 color_bg: '#4e6780'
-created: '2024-08-10T15:52:00+02:00'
 downloads:
   Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Slam Basketball
+update: '2024-08-10T15:52:00+02:00'
 updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It)
 ---

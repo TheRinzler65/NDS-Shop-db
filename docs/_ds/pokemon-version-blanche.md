@@ -4,7 +4,6 @@ categories:
 - game
 color: '#bd9b93'
 color_bg: '#806963'
-created: '2024-08-10T16:40:00+02:00'
 downloads:
   PokemonVersion Blanche (France) (NDSi Enhanced).nds:
     size: 268435456
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Version Blanche
+update: '2024-08-10T16:40:00+02:00'
 updated: '---'
 version: (France)
 ---

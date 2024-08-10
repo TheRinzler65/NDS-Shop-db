@@ -4,7 +4,6 @@ categories:
 - game
 color: '#8b6743'
 color_bg: '#805e3d'
-created: '2024-08-10T00:15:58+02:00'
 downloads:
   Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds:
     size: 134217728
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: 'Mario & Luigi : Bowser''s Inside Story'
+update: '2024-08-10T00:15:58+02:00'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

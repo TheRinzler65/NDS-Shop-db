@@ -4,7 +4,6 @@ categories:
 - game
 color: '#b5592c'
 color_bg: '#803f1f'
-created: '2024-08-10T19:55:58+02:00'
 downloads:
   Inazuma Eleven (France).nds:
     size: 268435456
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Inazuma Eleven
+update: '2024-08-10T19:55:58+02:00'
 updated: '---'
 version: (France)
 ---
