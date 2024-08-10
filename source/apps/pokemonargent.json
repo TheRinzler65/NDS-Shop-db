@@ -1,6 +1,6 @@
 {
-	"title": "",
-	"author": "",
+	"title": "Pokemon Version Argent",
+	"author": "Nintendo / GameFreak",
 	"categories": [
 		"game"
 	],
@@ -16,13 +16,13 @@
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonargent.png",
 	"version": "(France)",
-	"updated": "2024-08-10T01:26:00Z",
+	"updated": "2024-08-10T17:13:00Z",
 	"scripts": {
 		"PokemonVersion Argent SoulSilver (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
-				"output": "/_nds/TwiLightMenu/boxart/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.nds).png",
+				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Argent SoulSilver (France) [b].nds).png"
 			},
 			{
 				"type": "downloadFile",
