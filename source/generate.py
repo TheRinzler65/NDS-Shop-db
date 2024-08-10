@@ -6,11 +6,12 @@ import qrcode
 import re
 import requests
 import yaml
+import pytz
 
 from argparse import ArgumentParser, FileType
 from bs4 import BeautifulSoup
 from colorsys import hsv_to_rgb, rgb_to_hsv
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from dateutil import parser
 from img2tdx import img2tdx
 from io import BytesIO
@@ -212,7 +213,10 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 			if len(temp) > 0:
 				daysSinceUpdate = 1000
 				if "updated" in temp[0]:
-					daysSinceUpdate = (datetime.now(tz=timezone.utc) - parser.parse(temp[0]["updated"])).days
+
+					updated_time = parser.parse(temp[0]["updated"]).astimezone(pytz.timezone('Europe/Paris'))
+
+					daysSinceUpdate = (datetime.now(pytz.timezone('Europe/Paris')) - updated_time).days
 
 				doUpdate = daysSinceUpdate <= 30
 				if not doUpdate:
