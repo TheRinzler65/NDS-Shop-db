@@ -8,17 +8,17 @@
 		"DS"
 	],
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonargent/pokemonargent.png",
 		"description": "Game Preview"
 		},{
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
-	"version": "",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonargent.png",
+	"version": "(France)",
 	"updated": "2024-08-10T01:26:00Z",
 	"scripts": {
-		"": [
+		"PokemonVersion Argent SoulSilver (France) [b].nds": [
 			{
 				"type": "downloadFile",
 				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
@@ -26,8 +26,8 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
-				"output": "/roms/nds/"
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Argent%20SoulSilver%20%28France%29%20%5Bb%5D.nds",
+				"output": "/roms/nds/PokemonVersion Argent SoulSilver (France) [b].nds"
 			}
 		]
 	}
