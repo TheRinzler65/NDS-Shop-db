@@ -9,7 +9,7 @@ image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icon
 image_length: 502
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png
 - description: Boxart
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png

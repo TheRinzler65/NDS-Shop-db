@@ -9,7 +9,7 @@ image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icon
 image_length: 460
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/professeurlaytonetlaboitedepandore/professeurlaytonetlaboitedepandore.png
 - description: Boxart
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20la%20Boite%20de%20Pandore%20(France)%20%5Bb%5D.nds.png
