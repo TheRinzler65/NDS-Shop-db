@@ -11,22 +11,22 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonnoire/pokemonnoire.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Noire%20(France)%20(NDSi%20Enhanced).nds.png",
 		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png",
 	"version": "(France)",
-	"updated": "2024-08-10T01:26:00Z",
+	"updated": "2024-08-10T016:54:00Z",
 	"scripts": {
 		"PokemonVersion Noire (France) (NDSi Enhanced).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Noire%20(France)%20(NDSi%20Enhanced).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Noire (France) (NDSi Enhanced).nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.nds",
 				"output": "/roms/nds/PokemonVersion Noire (France) (NDSi Enhanced).nds"
 			}
 		]
