@@ -8,26 +8,26 @@
 		"DS"
 	],
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
-	"version": "",
-	"updated": "",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonplatine.png",
+	"version": "(France)",
+	"updated": "2024-08-10T16:23:00Z",
 	"scripts": {
-		"": [
+		"PokemonVersion Platine (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
-				"output": "/_nds/TwiLightMenu/boxart/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Platine (France) [b].nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
-				"output": "/roms/nds/"
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds",
+				"output": "/roms/nds/PokemonVersion Platine (France) [b].nds"
 			}
 		]
 	}
