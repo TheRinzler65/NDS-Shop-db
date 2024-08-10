@@ -21,7 +21,7 @@
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/mariokartds.png",
 	"version": "(Europe) (En,Fr,De,Es,It)",
-	"update": "2024-08-07T22:14:58Z",
+	"update": "2024-08-07T22:14:58+02:00",
 	"scripts": {
 		"Mario Kart DS (Europe) (En,Fr,De,Es,It).nds": [
 			{
