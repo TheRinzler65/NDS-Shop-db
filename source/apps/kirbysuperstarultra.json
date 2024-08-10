@@ -11,23 +11,23 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/kirbysuperstarultra/kirbysuperstarultra.png",
         "description": "Game preview"
         },{
-        "url": "",
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Kirby%20Super%20Star%20Ultra%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
         "description": "Boxart"
     }],
     "icon": "",
     "version": "",
     "updated": "",
     "scripts": {
-        "": [
+        "Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Kirby%20Super%20Star%20Ultra%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+                "output": "/_nds/TwiLightMenu/boxart/Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/roms/nds/"
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Kirby%20Super%20Star%20Ultra%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Kirby Super Star Ultra (Europe) (En,Fr,De,Es,It).nds"
             }
         ]
     }
