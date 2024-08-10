@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Party DS
-update: 2024-08-09T21:49:58+Z
+update: '2024-08-09T21:49:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

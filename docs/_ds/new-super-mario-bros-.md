@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: New Super Mario Bros.
-update: 2024-08-08T23:02:58+Z
+update: '2024-08-08T23:02:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

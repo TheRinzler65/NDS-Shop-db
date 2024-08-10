@@ -4,7 +4,6 @@ categories:
 - game
 color: '#4f909f'
 color_bg: '#3f7380'
-created: 2024-08-10T22:24:58+Z
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyoko.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyoko.png
 image_length: 938
@@ -18,6 +17,7 @@ stars: 0
 systems:
 - DS
 title: Code Lyoko
+update: '2024-08-10T22:24:58Z'
 updated: '---'
 version: (Europe) (En,Fr,Es,It)
 ---

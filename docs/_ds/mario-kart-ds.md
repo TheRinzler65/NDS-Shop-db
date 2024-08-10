@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Kart DS
-update: 2024-08-07T22:14:58+Z
+update: '2024-08-07T22:14:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -4,7 +4,6 @@ categories:
 - game
 color: '#c77e69'
 color_bg: '#805143'
-created: 2024-08-10T20:38:58+Z
 downloads:
   Cooking Mama (Europe) (En,Fr,It).nds:
     size: 33554432
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Cooking Mama
+update: '2024-08-10T20:38:58Z'
 updated: '---'
 version: (Europe) (En,Fr,It)
 ---

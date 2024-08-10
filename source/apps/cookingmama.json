@@ -21,7 +21,7 @@
     }],
     "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/cookingmama.png",
     "version": "(Europe) (En,Fr,It)",
-    "created": "2024-08-10T20:38:58+Z",
+    "update": "2024-08-10T20:38:58Z",
     "scripts": {
         "Cooking Mama (Europe) (En,Fr,It).nds": [
             {

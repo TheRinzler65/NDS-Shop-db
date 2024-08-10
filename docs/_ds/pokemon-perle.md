@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Perle
-update: 2024-08-07T17:25:20+Z
+update: '2024-08-07T17:25:20Z'
 updated: '---'
 version: (France)
 ---

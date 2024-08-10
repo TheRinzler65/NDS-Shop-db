@@ -4,7 +4,6 @@ categories:
 - game
 color: '#69bf6e'
 color_bg: '#468049'
-created: 2024-08-09T21:49:58+Z
 downloads:
   Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds:
     size: 67108864
@@ -25,6 +24,7 @@ stars: 0
 systems:
 - DS
 title: Animal Crossing - Wild World
+update: '2024-08-09T21:49:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

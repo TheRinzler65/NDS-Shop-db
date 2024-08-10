@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Dragon Quest IX - Sentinels of the Starry Skies
-update: 2024-08-10T20:07:58+Z
+update: '2024-08-10T20:07:58Z'
 updated: '---'
 version: (Europe) (En,Fr,De,Es,It)
 ---

@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et l'Appel du Spectre
-update: 2024-08-10T01:12:00+Z
+update: '2024-08-10T01:12:00Z'
 updated: '---'
 version: (France)
 ---

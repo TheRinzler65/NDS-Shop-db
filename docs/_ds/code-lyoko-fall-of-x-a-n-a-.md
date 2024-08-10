@@ -4,7 +4,6 @@ categories:
 - game
 color: '#c749c9'
 color_bg: '#7e2e80'
-created: 2024-08-10T22:37:58+Z
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyokoxana.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyokoxana.png
 image_length: 723
@@ -18,6 +17,7 @@ stars: 0
 systems:
 - DS
 title: 'Code Lyoko: Fall of X.A.N.A.'
+update: '2024-08-10T22:37:58Z'
 updated: '---'
 version: (Europe) (En,Fr)
 ---

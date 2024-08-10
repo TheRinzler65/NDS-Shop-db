@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Mario Slam Basketball
-update: 2024-08-10T15:52:00+Z
+update: '2024-08-10T15:52:00Z'
 updated: '---'
 version: (Europe) (En,Ja,Fr,De,Es,It)
 ---

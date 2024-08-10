@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Professeur Layton et la Boite de Pandore
-update: 2024-08-10T01:26:00+Z
+update: '2024-08-10T01:26:00Z'
 updated: '---'
 version: (France)
 ---

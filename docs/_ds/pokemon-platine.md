@@ -24,7 +24,7 @@ stars: 0
 systems:
 - DS
 title: Pokemon Platine
-update: 2024-08-10T16:26:00+Z
+update: '2024-08-10T16:26:00Z'
 updated: '---'
 version: (France)
 ---
