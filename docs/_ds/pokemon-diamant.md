@@ -5,10 +5,17 @@ categories:
 color: '#52708e'
 color_bg: '#4a6580'
 created: '2024-08-07T17:25:20+02:00'
+downloads:
+  PokemonVersion Diamant (France) (Rev ).nds:
+    size: 67108864
+    size_str: 64 MiB
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image_length: 502
 layout: app
+qr:
+  PokemonVersion Diamant (France) (Rev ).nds: https://db-nds-shop.netlify.app/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
 screenshots:
 - description: Game preview
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png

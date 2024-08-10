@@ -5,10 +5,17 @@ categories:
 color: '#63453f'
 color_bg: '#63453f'
 created: '2024-08-10T16:54:00+02:00'
+downloads:
+  PokemonVersion Noire (France) (NDSi Enhanced).nds:
+    size: 268435456
+    size_str: 256 MiB
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Noire%20%28France%29%20%28NDSi%20Enhanced%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire.png
 image_length: 480
 layout: app
+qr:
+  PokemonVersion Noire (France) (NDSi Enhanced).nds: https://db-nds-shop.netlify.app/assets/images/qr/pokemonversion-noire-france-ndsi-enhanced-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonnoire/pokemonnoire.png

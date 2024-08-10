@@ -5,10 +5,17 @@ categories:
 color: '#9a5d7c'
 color_bg: '#804d67'
 created: '2024-08-10T02:31:58+02:00'
+downloads:
+  Mario & LuigiPartners in Time (Europe) (En,Fr,De,Es,It).nds:
+    size: 67108864
+    size_str: 64 MiB
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20%26%20LuigiPartners%20in%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/mario%26luigipartnersintime.png
 image_length: 1274
 layout: app
+qr:
+  Mario & LuigiPartners in Time (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/mario--luigipartners-in-time-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mario%26luigipartnersintime/mario%26luigipartnersintime.png

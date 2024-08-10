@@ -5,10 +5,17 @@ categories:
 color: '#9f5b3d'
 color_bg: '#804931'
 created: '2024-08-10T16:30:00+02:00'
+downloads:
+  WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds:
+    size: 33554432
+    size_str: 32 MiB
+    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/WarioWareTouched%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/wariowaretouched.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/wariowaretouched.png
 image_length: 602
 layout: app
+qr:
+  WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/wariowaretouched-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/wariowaretouched/wariowaretouched.png
