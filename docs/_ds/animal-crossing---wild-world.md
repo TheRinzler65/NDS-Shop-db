@@ -14,7 +14,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/
 image_length: 471
 layout: app
 qr:
-  Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds: https://db.universal-team.net/assets/images/qr/welcome-to-animal-crossingwild-world-europe-enfrdeesit-nds.png
+  Welcome to Animal CrossingWild World (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/welcome-to-animal-crossingwild-world-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/animalcrossingwildworld/animalcrossingwildworld.png
