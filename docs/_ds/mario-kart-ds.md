@@ -9,10 +9,10 @@ image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icon
 image_length: 940
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/mariokartds/mariokartds.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20Kart%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

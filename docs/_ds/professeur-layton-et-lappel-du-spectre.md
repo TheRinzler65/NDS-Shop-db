@@ -9,7 +9,7 @@ image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icon
 image_length: 493
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png
 - description: Boxart
   url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20l'Appel%20du%20Spectre%20(France).nds.png

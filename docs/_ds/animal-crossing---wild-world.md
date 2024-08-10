@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/
 image_length: 471
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/animalcrossingwildworld/animalcrossingwildworld.png
 - description: Boxart
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Welcome%20to%20Animal%20CrossingWild%20World%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png

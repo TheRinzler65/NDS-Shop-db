@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/
 image_length: 761
 layout: app
 screenshots:
-- description: Game Test
+- description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mariopartyds/mariopartyds.png
 - description: Boxart
   url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png
