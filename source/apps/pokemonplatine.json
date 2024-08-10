@@ -7,6 +7,11 @@
 	"systems": [
 		"DS"
 	],
+	"downloads": {
+		"PokemonVersion Platine (France) [b].nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds"
+		}
+	},
 	"screenshots": [{
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png",
 		"description": "Game Preview"

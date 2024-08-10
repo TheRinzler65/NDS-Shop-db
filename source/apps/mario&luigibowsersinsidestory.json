@@ -7,6 +7,11 @@
     "systems": [
         "DS"
     ],
+    "downloads": {
+		"Mario & LuigiBowser's Inside Story (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20%26%20LuigiBowser%27s%20Inside%20Story%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+		}
+	},
     "screenshots": [{
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mario%26luigibowsersinsidestory/mario%26luigibowsersinsidestory.png",
         "description": "Game preview"

@@ -7,6 +7,11 @@
     "systems": [
         "DS"
     ],
+    "downloads": {
+		"Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds"
+		}
+	},
     "screenshots": [{
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/sonicrush/sonicrush.png",
         "description": "Game preview"

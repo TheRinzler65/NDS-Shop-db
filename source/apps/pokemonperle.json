@@ -7,6 +7,11 @@
 	"systems": [
 		"DS"
 	],
+	"downloads": {
+		"PokemonVersion Perle (France) (Rev ).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Perle%20%28France%29%20%28Rev%20%29.nds"
+		}
+	},
 	"screenshots": [{
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonperle/pokemonperle.png",
 		"description": "Game preview"

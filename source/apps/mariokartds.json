@@ -7,6 +7,11 @@
 	"systems": [
 		"DS"
 	],
+	"downloads": {
+		"Mario Kart DS (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Kart%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+		}
+	},
 	"screenshots": [{
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/mariokartds/mariokartds.png",
 		"description": "Game preview"

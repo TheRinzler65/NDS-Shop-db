@@ -7,6 +7,11 @@
     "systems": [
         "DS"
     ],
+    "downloads": {
+		"source/apps/chronotrigger.json": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.nds"
+		}
+	},
     "screenshots": [{
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/chronotrigger/chronotrigger.png",
         "description": "Game preview"
