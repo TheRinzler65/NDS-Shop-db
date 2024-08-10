@@ -18,5 +18,5 @@ systems:
 - DS
 title: Sonic Colours
 updated: '2024-08-10T14:53:00Z'
-version: (Europe) (En,Ja,Fr,De,Es,It
+version: (Europe) (En,Ja,Fr,De,Es,It)
 ---
