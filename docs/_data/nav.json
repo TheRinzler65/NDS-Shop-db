@@ -5,14 +5,9 @@
   },
   {
     "title": "DS",
-    "items": [
-      {
-        "title": "All",
-        "page_title": "DS",
+    "page_title": "DS",
         "url": "/ds",
         "key": "d"
-      }
-    ]
   }, {
     "title": "Submit app request",
     "url": "https://discord.gg/tWuMKd8ZHm"

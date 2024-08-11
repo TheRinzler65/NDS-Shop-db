@@ -146,6 +146,7 @@ function setLang(lang) {
 	loadLang(false);
 	updateDates();
 
-	if(prevLang == "ic-IC")
+	if ((prevLang === "fr-FR" && lang === "en-US") || (prevLang === "en-US" && lang === "fr-FR")) {
 		location.reload();
+	}
 }
