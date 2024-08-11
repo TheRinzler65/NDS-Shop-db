@@ -16,8 +16,8 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/supermario64ds/supermario64ds.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Super%20MarioDS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
@@ -26,7 +26,7 @@
         "Super MarioDS (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Super%20MarioDS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Super MarioDS (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
