@@ -900,16 +900,14 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 
 if __name__ == "__main__":
-    # Charger la configuration depuis le fichier config.ini
+	
     config = configparser.ConfigParser()
     config.read('config.ini')
 
-    # Lire les valeurs par défaut depuis la section DEFAULT
     default_source = config['DEFAULT'].get('source', 'apps')
     default_docs = config['DEFAULT'].get('docs', '../docs')
     default_token = config['DEFAULT'].get('token', '')
 
-    # Définir les arguments avec les valeurs par défaut lues du fichier de config
     argParser = ArgumentParser(description="Generates the Universal-DB website and UniStores from a JSON")
     argParser.add_argument("source", metavar="apps", type=str, default=default_source, nargs='?',
                            help="source JSON folder (default: %(default)s)")
