@@ -3,6 +3,7 @@
 *.venv
 *.txt
 *_site
+config.ini
 *.sass-cache
 *.jekyll-cache
 *.jekyll-metadata

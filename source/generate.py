@@ -6,6 +6,7 @@ import qrcode
 import re
 import requests
 import yaml
+import configparser
 
 from argparse import ArgumentParser
 from bs4 import BeautifulSoup
@@ -899,12 +900,26 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 
 if __name__ == "__main__":
-	argParser = ArgumentParser(description="Generates the Universal-DB website and UniStores from a JSON")
-	argParser.add_argument("source", metavar="apps", type=str, help="source JSON folder")
-	argParser.add_argument("docs", metavar="../docs", type=str, help="location to output to")
-	argParser.add_argument("--token", "-t", type=str, help="GitHub API token (to get around rate limit")
-	argParser.add_argument("--priority", "-p", action="store_true", help="skips all apps not marked priority/updated within 30 days")
+    # Charger la configuration depuis le fichier config.ini
+    config = configparser.ConfigParser()
+    config.read('config.ini')
 
-	args = argParser.parse_args()
+    # Lire les valeurs par défaut depuis la section DEFAULT
+    default_source = config['DEFAULT'].get('source', 'apps')
+    default_docs = config['DEFAULT'].get('docs', '../docs')
+    default_token = config['DEFAULT'].get('token', '')
 
-	main(args.source, args.docs, args.token, args.priority)
+    # Définir les arguments avec les valeurs par défaut lues du fichier de config
+    argParser = ArgumentParser(description="Generates the Universal-DB website and UniStores from a JSON")
+    argParser.add_argument("source", metavar="apps", type=str, default=default_source, nargs='?',
+                           help="source JSON folder (default: %(default)s)")
+    argParser.add_argument("docs", metavar="../docs", type=str, default=default_docs, nargs='?',
+                           help="location to output to (default: %(default)s)")
+    argParser.add_argument("--token", "-t", type=str, default=default_token,
+                           help="GitHub API token (default: value from config.ini)")
+    argParser.add_argument("--priority", "-p", action="store_true",
+                           help="skips all apps not marked priority/updated within 30 days")
+
+    args = argParser.parse_args()
+
+    main(args.source, args.docs, args.token, args.priority)
