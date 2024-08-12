@@ -8,8 +8,8 @@
         "DS"
     ],
 "downloads": {
-        "": {
-            "url": ""
+        "Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
         }
     },
     "screenshots": [{
@@ -23,16 +23,16 @@
     "version": "",
     "updated": "+02:00",
     "scripts": {
-        "": [
+        "Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
                 "file": "",
-                "output": "/_nds/TwiLightMenu/boxart/"
+                "output": "/_nds/TwiLightMenu/boxart/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
                 "type": "downloadFile",
-                "file": "",
-                "output": "/roms/nds/"
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds"
             }
         ]
     }
