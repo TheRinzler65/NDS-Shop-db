@@ -16,8 +16,8 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/sonicrushadventure/sonicrushadventure.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
@@ -26,7 +26,7 @@
         "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds.png"
             },
             {
