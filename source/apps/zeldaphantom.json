@@ -1,0 +1,39 @@
+{
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "Legend of Zelda, ThePhantom Hourglass (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Legend%20of%20Zelda%2C%20ThePhantom%20Hourglass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+        }
+    },
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "+02:00",
+    "scripts": {
+        "Legend of Zelda, ThePhantom Hourglass (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/Legend of Zelda, ThePhantom Hourglass (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Legend%20of%20Zelda%2C%20ThePhantom%20Hourglass%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Legend of Zelda, ThePhantom Hourglass (Europe) (En,Fr,De,Es,It).nds"
+            }
+        ]
+    }
+} 
