@@ -1,0 +1,39 @@
+{
+    "title": "The Legend of Zelda: Spirit Tracks",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds": {
+            "url": ""
+        }
+    },
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "+02:00",
+    "scripts": {
+        "Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/roms/nds/Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds"
+            }
+        ]
+    }
+} 
