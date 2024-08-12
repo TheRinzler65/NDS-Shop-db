@@ -19,9 +19,9 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Sonic%20Rush%20Adventure%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).nds.png",
         "description": "Boxart"
     }],
-    "icon": "",
-    "version": "",
-    "updated": "+02:00",
+    "icon": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/sonicrushadventure.png",
+    "version": "(Europe) (En,Ja,Fr,De,Es,It) (Rev )",
+    "updated": "2024-08-12T18:01:58+02:00",
     "scripts": {
         "Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds": [
             {
