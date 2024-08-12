@@ -1,0 +1,43 @@
+{
+	"title": "Pokemon Version Blanche 2",
+	"author": "Nintendo / GameFreak",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds.png",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnblanche2",
+	"version": "(France)",
+	"updated": "2024-08-10T01:26:00+02:00",
+	"scripts": {
+		"Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://dl.jeuxmangas.com/727RePvIYWx2H7Nvryy3/roms/ds/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
+				"output": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
+			},
+            {
+				"type": "extractFile",
+				"file": "Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip",
+				"output": "/roms/nds/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).nds"
+			},
+            {
+                "type": "deleteFile",
+                "file": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
+            }
+		]
+	}
+}
