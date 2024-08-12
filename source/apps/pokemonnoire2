@@ -11,17 +11,17 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonnoir2/pokemonnoir2.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon%20-%20Version%20Noire%202%20(France)%20(NDSi%20Enhanced).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoire2.png",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoir2.png",
 	"version": "(France)",
 	"updated": "2024-08-10T01:26:00+02:00",
 	"scripts": {
 		"Pokemon - Version Noire 2 (France) (NDSi Enhanced).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Pokemon%20-%20Version%20Noire%202%20(France)%20(NDSi%20Enhanced).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Pokemon - Version Noire 2 (France) (NDSi Enhanced).nds.png"
 			},
 			{
