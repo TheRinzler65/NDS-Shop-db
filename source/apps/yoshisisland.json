@@ -1,0 +1,39 @@
+{
+    "title": "Yoshi's Island DS",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "": {
+            "url": ""
+        }
+    },
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "+02:00",
+    "scripts": {
+        "": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/"
+            },
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/roms/nds/"
+            }
+        ]
+    }
+} 
