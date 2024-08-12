@@ -1,5 +1,5 @@
 ---
-author: Nintendo/Level-5
+author: Nintendo / Level-5
 categories:
 - game
 color: '#b5592c'

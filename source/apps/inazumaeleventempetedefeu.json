@@ -13,21 +13,18 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/inazumaeleventempetedefeu/inazumaeleventempetedefeu.png",
-		"description": "Game Preview"
-		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png",
 		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png",
 	"version": "(France)",
-	"updated": "2024-08-10T01:26:00+02:00",
+	"updated": "2024-08-12T21:56:00+02:00",
 	"scripts": {
 		"Inazuma Eleven 2 - Tempete de Feu (France) (France).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
-				"output": "/_nds/TwiLightMenu/boxart/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/Inazuma Eleven 2 - Tempete de Feu (France).nds.png"
 			},
 			{
 				"type": "downloadFile",
