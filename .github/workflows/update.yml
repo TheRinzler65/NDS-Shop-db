@@ -19,7 +19,7 @@ jobs:
     - name: Run generate.py
       run: |
         export PATH=$PATH:/opt/devkitpro/tools/bin
-        python3 source/generate.py
+        python3 source/generate.py source/apps docs
 
     - name: Pull origin
       run: git pull origin master --ff-only
