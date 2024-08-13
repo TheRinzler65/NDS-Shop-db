@@ -8,7 +8,7 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
-    container: therinzler65/nds-shop
+    container: rinzler65/nds-shop
 
     steps:
     - uses: actions/checkout@v1
