@@ -25,7 +25,7 @@ jobs:
         python3 source/generate.py source/apps docs
 
     - name: Pull origin
-      run: git pull origin master --ff-only
+      run: git pull origin main --ff-only
 
     - name: Push changes
       run: |
