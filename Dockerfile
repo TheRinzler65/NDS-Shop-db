@@ -1,6 +1,6 @@
 FROM devkitpro/devkitarm
 
-MAINTAINER Pk11 <epicpkmn11@outlook.com>
+MAINTAINER rinzler65 <leo.gruet65@gmail.com>
 
 RUN echo deb http://deb.debian.org/debian stable main contrib non-free >> /etc/apt/sources.list && \
     sudo apt-get update && \
