@@ -1,0 +1,39 @@
+{
+    "title": "Michael Jackson - The Experience",
+    "author": "Ubisoft",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Michael%20JacksonThe%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+        }
+    },
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "+02:00",
+    "scripts": {
+        "Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Michael%20JacksonThe%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds"
+            }
+        ]
+    }
+} 
