@@ -31,7 +31,8 @@
 			},
             {
 				"type": "extractFile",
-				"file": "Pokemon-Version-Noire-2-France-NDSi-Enhanced.zip",
+				"file": "/Pokemon-Version-Noire-2-France-NDSi-Enhanced.zip",
+				"input": "",
 				"output": "/roms/nds/Pokemon - Version Noire 2 (France) (NDSi Enhanced).nds"
 			},
             {
