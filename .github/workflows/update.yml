@@ -1,4 +1,4 @@
-name: Update sources
+name: Update UniStore
 
 on:
   schedule:
