@@ -16,8 +16,8 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/mario%26sonicwinterjo/mario%26sonicwinterjo.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20Sonic%20at%20the%20Olympic%20Winter%20Games%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
@@ -26,7 +26,7 @@
         "Mario & Sonic at the Olympic Winter Games (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Mario%20%26%20Sonic%20at%20the%20Olympic%20Winter%20Games%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Mario & Sonic at the Olympic Winter Games (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
