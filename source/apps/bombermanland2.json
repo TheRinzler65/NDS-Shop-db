@@ -1,0 +1,39 @@
+{
+	"title": "Bomberman Land 2",
+	"author": "",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"": {
+			"url": ""
+		}
+	},
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
+	"version": "",
+	"updated": "2024-08-10T01:26:00+02:00",
+	"scripts": {
+		"": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/"
+			},
+			{
+				"type": "downloadFile",
+				"file": "",
+				"output": "/roms/nds/"
+			}
+		]
+	}
+}

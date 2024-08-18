@@ -1,0 +1,39 @@
+{
+	"title": "Bomberman Land 1",
+	"author": "",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"downloads": {
+		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": {
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Bomberman%20Land%20Touch%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+		}
+	},
+	"screenshots": [{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland1.png",
+		"description": "Game Preview"
+		},{
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"description": "Boxart"
+	}],
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/bombermanland1.png",
+	"version": "",
+	"updated": "2024-08-18T22:00:00+02:00",
+	"scripts": {
+		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"output": "/_nds/TwiLightMenu/boxart/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds.png"
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Bomberman%20Land%20Touch%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+				"output": "/roms/nds/"
+			}
+		]
+	}
+}
