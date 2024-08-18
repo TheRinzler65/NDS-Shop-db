@@ -1,6 +1,6 @@
 {
 	"title": "Bomberman Land 1",
-	"author": "",
+	"author": "Rising Star Games",
 	"categories": [
 		"game"
 	],
@@ -16,7 +16,7 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland1.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/bombermanland1.png",
@@ -26,13 +26,13 @@
 		"Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
 				"type": "downloadFile",
 				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Bomberman%20Land%20Touch%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
-				"output": "/roms/nds/"
+				"output": "/roms/nds/Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds"
 			}
 		]
 	}

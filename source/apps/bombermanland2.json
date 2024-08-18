@@ -1,6 +1,6 @@
 {
 	"title": "Bomberman Land 2",
-	"author": "",
+	"author": "Rising Star Games",
 	"categories": [
 		"game"
 	],
@@ -8,30 +8,30 @@
 		"DS"
 	],
 	"downloads": {
-		"": {
+		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": {
 			"url": ""
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland2.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/bombermanland2.png",
 	"version": "",
 	"updated": "2024-08-10T01:26:00+02:00",
 	"scripts": {
-		"": [
+		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
-				"output": "/_nds/TwiLightMenu/boxart/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+				"output": "/_nds/TwiLightMenu/boxart/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
+				"file": "https://wowroms.com/fr/roms/nintendo-ds/download-bomberman-land-touch-2/15394.html",
 				"output": "/roms/nds/"
 			}
 		]
