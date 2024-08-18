@@ -41,10 +41,13 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "",
-				"output": "/roms/nds/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/New%20Super%20Mario%20Bros.%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"output": "/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
 			}
-
 		]
 	}
 }
