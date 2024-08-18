@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": {
-			"url": ""
+			"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
 		}
 	},
 	"screenshots": [{
@@ -31,8 +31,8 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://wowroms.com/fr/roms/nintendo-ds/download-bomberman-land-touch-2/15394.html",
-				"output": "/roms/nds/"
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
+				"output": "/roms/nds/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds"
 			}
 		]
 	}
