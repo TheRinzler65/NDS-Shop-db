@@ -25,5 +25,5 @@ systems:
 - DS
 title: Bomberman Land 2
 updated: '2024-08-18T22:25:00+02:00'
-version: ''
+version: (Europe) (En,Fr,De,Es,It)
 ---
