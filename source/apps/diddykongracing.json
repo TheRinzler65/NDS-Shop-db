@@ -1,0 +1,39 @@
+{
+    "title": "Diddy Kong Racing DS",
+    "author": "Nintendo",
+    "categories": [
+        "game"
+    ],
+    "systems": [
+        "DS"
+    ],
+"downloads": {
+        "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds": {
+            "url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds"
+        }
+    },
+    "screenshots": [{
+        "url": "",
+        "description": ""
+        },{
+        "url": "",
+        "description": ""
+    }],
+    "icon": "",
+    "version": "",
+    "updated": "+02:00",
+    "scripts": {
+        "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds": [
+            {
+                "type": "downloadFile",
+                "file": "",
+                "output": "/_nds/TwiLightMenu/boxart/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds.png"
+            },
+            {
+                "type": "downloadFile",
+                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Diddy%20Kong%20Racing%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
+                "output": "/roms/nds/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds"
+            }
+        ]
+    }
+} 
