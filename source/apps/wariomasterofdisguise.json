@@ -16,17 +16,17 @@
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/wariomasterofdisguise/wariomasterofdisguise.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/WarioMaster%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 		"description": "Boxart"
 	}],
 	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png",
-	"version": "",
-	"updated": "2024-08-10T01:26:00+02:00",
+	"version": "(Europe) (En,Fr,De,Es,It)",
+	"updated": "2024-08-18T21:36:00+02:00",
 	"scripts": {
 		"WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/WarioMaster%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds.png"
 			},
 			{
