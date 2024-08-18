@@ -9,11 +9,11 @@
 	],
 	"downloads": {
 		"Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds": {
-			"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
+			"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds"
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland2.png",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/bombermanland2/bombermanland2.png",
 		"description": "Game Preview"
 		},{
 		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/roms/Bomberman%20Land%20Touch!%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds",
 				"output": "/roms/nds/Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds"
 			}
 		]
