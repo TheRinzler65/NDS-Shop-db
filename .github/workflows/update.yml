@@ -1,5 +1,6 @@
 name: Update UniStore
 
+# Run on push and 8 times per day
 on:
   schedule:
     - cron: 0 0,3,6,9,12,15,18,21 * * *
@@ -42,6 +43,6 @@ jobs:
 
         git checkout main
         git stage .
-        if git commit -m "Update unistore"; then
+        if git commit -m "Update UniStore"; then
           git push origin main
         fi
