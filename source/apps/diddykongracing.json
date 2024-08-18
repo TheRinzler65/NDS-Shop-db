@@ -16,8 +16,8 @@
         "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/screenshots/diddykongracing/diddykongracing.png",
         "description": "Game preview"
         },{
-        "url": "",
-        "description": ""
+        "url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Diddy%20Kong%20Racing%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
+        "description": "Boxart"
     }],
     "icon": "",
     "version": "",
@@ -26,7 +26,7 @@
         "Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds": [
             {
                 "type": "downloadFile",
-                "file": "",
+                "file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/boxart/Diddy%20Kong%20Racing%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png",
                 "output": "/_nds/TwiLightMenu/boxart/Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds.png"
             },
             {
