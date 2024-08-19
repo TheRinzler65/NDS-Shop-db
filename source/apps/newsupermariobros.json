@@ -45,6 +45,10 @@
 				"output": "/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
 			},
 			{
+				"type": "installCia",
+				"file": "/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
 				"type": "deleteFile",
 				"file": "/New Super Mario Bros. (Europe) (En,Fr,De,Es,It).cia"
 			}
