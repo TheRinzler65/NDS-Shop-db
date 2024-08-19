@@ -20,6 +20,22 @@
 
 - You will see a catalog of NDS games.
 
+## a
+
+- When you are in the catalog, choose a game. In this example, we’ll select `Mario Kart DS` ![Exemple 1](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple1EN.png)
+
+- Next, select thet `.nds`game file. There may be several versions available, so pick the one you prefer ![Exemple 2](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple2EN.png)
+
+- A message will appear asking if you want to download the game ![Exemple 3](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple3EN.png)
+
+- The download will begin. (Note: the download speed shown in this example may differ from what you experience on your console.) ![Exemple 4](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple4EN.png)
+
+- A message saying `Action required!` will appear ![Exemple 5](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple5EN.png)
+
+- You will be asked if you want to add the game to your 3DS Home menu ![Exemple 6](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple6EN.png)
+
+- Finally, the installation will complete with a message showing the name of your ROM followed by `succeeded` or `failed`, depending on the result. ![Exemple 7](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple7EN.png)
+
 
 ## Notes
 

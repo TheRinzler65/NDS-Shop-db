@@ -23,6 +23,23 @@
 - Et vous verez enfin le catalogue de jeux NDS
 
 
+## Comment se télécharge un jeu ?
+
+- Lorsque vous êtes sur le catalogue, choisissez un jeu. Dans cet exemple, nous sélectionnerons `Mario Kart DS` ![Exemple 1](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple1FR.png)
+
+- Sélectionnez ensuite le fichier du jeu au format `.nds`. Il est possible que plusieurs versions soient disponibles, alors choisissez celle que vous préférez ![Exemple 2](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple2FR.png)
+
+- Un message apparaîtra vous demandant si vous souhaitez télécharger le jeu ![Exemple 3](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple3FR.png)
+
+- Le téléchargement commencera. (Remarque : la vitesse de téléchargement dans cet exemple peut différer de celle sur votre console.) ![Exemple 4](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple4FR.png)
+
+- Un message `Action requise !` s'affichera ![Exemple 5](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple5FR.png)
+
+- Il vous sera demandé si vous souhaitez ajouter le jeu au menu Home de votre 3DS  ![Exemple 6](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple6FR.png)
+
+- Enfin, l'installation se terminera avec un message affichant le nom de votre ROM suivi de `réussi` ou `échoué`, selon le résultat. ![Exemple 7](https://github.com/TheRinzler65/NDS-Shop/raw/main/tutorial/screenshots/exemple7FR.png)
+
+
 ## Notes
 
 - La vitesse de téléchargement est limitée à `45 Ko/s` ce qui signifie qu'un fichier de `30 Mo` prendra environ  `10 min` à se télécharger, voire un peu plus.
