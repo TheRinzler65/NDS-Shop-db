@@ -1,0 +1,20 @@
+{
+	"title": "Test please do not download this",
+	"author": "",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"DS"
+	],
+	"updated": "2024-08-10T01:26:00+02:00",
+	"scripts": {
+		"Kim Possible - Global Gemini (USA) (En,Fr).nds": [
+			{
+				"type": "downloadFile",
+				"file": "https://drive.google.com/file/d/1JrIQGeLjfF3bVxmp8Hg2303GCE2QhSDY/view?usp=drive_link",
+				"output": "/roms/nds/Kim Possible - Global Gemini (USA) (En,Fr).nds"
+			}
+		]
+	}
+}

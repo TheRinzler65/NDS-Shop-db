@@ -38,7 +38,25 @@
             {
                 "type": "deleteFile",
                 "file": "/Pokemon-Version-Blanche-2-France-NDSi-Enhanced.zip"
-            }
+            },
+			{
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Pokemon%20-%20Version%20Blanche%202%20(France)%20(NDSi%20Enhanced).cia",
+				"output": "/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Pokemon - Version Blanche 2 (France) (NDSi Enhanced).cia"
+			}
 		]
 	}
 }
