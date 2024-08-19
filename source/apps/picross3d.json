@@ -33,7 +33,25 @@
                 "type": "downloadFile",
                 "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Picross%20D%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
                 "output": "/roms/nds/Picross D (Europe) (En,Fr,De,Es,It).nds"
-            }
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Picross%20D%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).cia",
+				"output": "/Picross D (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Picross D (Europe) (En,Fr,De,Es,It).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Picross D (Europe) (En,Fr,De,Es,It).cia"
+			}
         ]
     }
 } 

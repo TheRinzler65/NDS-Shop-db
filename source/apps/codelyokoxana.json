@@ -33,7 +33,25 @@
                 "type": "downloadFile",
                 "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20LyokoFall%20of%20X.A.N.A.%20%28Europe%29%20%28En%2CFr%29.nds",
                 "output": "/roms/nds/Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds"
-            }
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Code%20LyokoFall%20of%20X.A.N.A.%20(Europe)%20(En%2CFr).cia",
+				"output": "/Code LyokoFall of X.A.N.A. (Europe) (En,Fr).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Code LyokoFall of X.A.N.A. (Europe) (En,Fr).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Code LyokoFall of X.A.N.A. (Europe) (En,Fr).cia"
+			}
         ]
     }
 } 

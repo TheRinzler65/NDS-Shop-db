@@ -33,7 +33,25 @@
                 "type": "downloadFile",
                 "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Party%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%20%29.nds",
                 "output": "/roms/nds/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds"
-            }
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Mario%20Party%20DS%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Rev%20).cia",
+				"output": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).cia"
+			}
         ]
     }
 }

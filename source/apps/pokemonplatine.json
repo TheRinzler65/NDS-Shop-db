@@ -33,6 +33,24 @@
 				"type": "downloadFile",
 				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds",
 				"output": "/roms/nds/PokemonVersion Platine (France) [b].nds"
+			},
+			{
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/PokemonVersion%20Platine%20(France)%20%5Bb%5D.cia",
+				"output": "/PokemonVersion Platine (France) [b].cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/PokemonVersion Platine (France) [b].cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/PokemonVersion Platine (France) [b].cia"
 			}
 		]
 	}

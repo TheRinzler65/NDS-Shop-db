@@ -33,7 +33,25 @@
                 "type": "downloadFile",
                 "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20%28France%29.nds",
                 "output": "/roms/nds/Inazuma Eleven (France).nds"
-            }
+            },
+            {
+				"type": "promptMessage",
+				"message": "Would you like to add it to the Home menu as well?\n\nSouhaitez-vous également l'ajouter au menu Home ?",
+				"count": 1
+			},
+			{
+				"type": "downloadFile",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Inazuma%20Eleven%20(France).cia",
+				"output": "/Inazuma Eleven (France).cia"
+			},
+			{
+				"type": "installCia",
+				"file": "/Inazuma Eleven (France).cia"
+			},
+			{
+				"type": "deleteFile",
+				"file": "/Inazuma Eleven (France).cia"
+			}
         ]
     }
 }
