@@ -6,8 +6,6 @@ color: '#4f909f'
 color_bg: '#3f7380'
 downloads:
   Code Lyoko (Europe) (En,Fr,Es,It).nds:
-    size: 67108864
-    size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Code%20Lyoko%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyoko.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/codelyoko.png

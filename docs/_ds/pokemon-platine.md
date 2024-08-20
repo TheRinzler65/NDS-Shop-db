@@ -6,8 +6,6 @@ color: '#b1994a'
 color_bg: '#806e35'
 downloads:
   PokemonVersion Platine (France) [b].nds:
-    size: 134217728
-    size_str: 128 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonplatine.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonplatine.png
