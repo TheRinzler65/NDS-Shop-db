@@ -6,6 +6,8 @@ color: '#90675a'
 color_bg: '#805b50'
 downloads:
   WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds:
+    size: 67108864
+    size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/WarioMaster%20of%20Disguise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
