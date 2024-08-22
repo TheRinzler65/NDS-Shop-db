@@ -1,4 +1,4 @@
-# NDS-Shop
+# NDS-Shop-db
 > An online database of DS games in Universal-Updater
 
 ## Information
