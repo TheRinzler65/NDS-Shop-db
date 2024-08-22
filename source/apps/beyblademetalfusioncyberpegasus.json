@@ -9,26 +9,26 @@
 	],
 	"downloads": {
 		"Beyblade Metal FusionCyber Pegasus (Europe) [b].nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Beyblade%20Metal%20FusionCyber%20Pegasus%20%28Europe%29%20%5Bb%5D.nds"
+			"url": "https://drive.usercontent.google.com/download?id=1KSZtSP0vWT5rE4jy5Wzie5kn_YvYGS8o&export=download&authuser=0"
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20-%20Cyber%20Pegasus%20(Europe).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/beyblademetalfusioncyberpegasus.png",
 	"version": "",
-	"updated": "2024-08-10T01:26:00+02:00",
+	"updated": "2024-08-22T19:01:00+02:00",
 	"scripts": {
 		"Beyblade Metal FusionCyber Pegasus (Europe) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20-%20Cyber%20Pegasus%20(Europe).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/Beyblade Metal FusionCyber Pegasus (Europe) [b].nds.png"
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Beyblade%20Metal%20FusionCyber%20Pegasus%20%28Europe%29%20%5Bb%5D.nds",
+				"file": "https://drive.usercontent.google.com/download?id=1KSZtSP0vWT5rE4jy5Wzie5kn_YvYGS8o&export=download&authuser=0",
 				"output": "/roms/nds/Beyblade Metal FusionCyber Pegasus (Europe) [b].nds"
 			},
 			{
@@ -38,7 +38,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/",
+				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/Beyblade%20Metal%20FusionCyber%20Pegasus%20(Europe)%20%5Bb%5D.cia",
 				"output": "/Beyblade Metal FusionCyber Pegasus (Europe) [b].cia"
 			},
 			{
