@@ -9,7 +9,7 @@
 	],
 	"downloads": {
 		"Beyblade Metal FusionCyber Pegasus (Europe) [b].nds": {
-			"url": "https://drive.usercontent.google.com/download?id=1KSZtSP0vWT5rE4jy5Wzie5kn_YvYGS8o&export=download&authuser=0"
+			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Beyblade%20Metal%20FusionCyber%20Pegasus%20%28Europe%29%20%5Bb%5D.nds"
 		}
 	},
 	"screenshots": [{
@@ -28,7 +28,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://drive.usercontent.google.com/download?id=1KSZtSP0vWT5rE4jy5Wzie5kn_YvYGS8o&export=download&authuser=0",
+				"file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Beyblade%20Metal%20FusionCyber%20Pegasus%20%28Europe%29%20%5Bb%5D.nds",
 				"output": "/roms/nds/Beyblade Metal FusionCyber Pegasus (Europe) [b].nds"
 			},
 			{
