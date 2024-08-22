@@ -2,11 +2,8 @@
 author: Nintendo / GameFreak
 categories:
 - game
-color: '#4b4f56'
-color_bg: '#4b4f56'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoir2.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonnoir2.png
-image_length: 634
 layout: app
 screenshots:
 - description: Game Preview

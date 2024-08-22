@@ -2,8 +2,6 @@
 author: Office Create
 categories:
 - game
-color: '#c77e69'
-color_bg: '#805143'
 downloads:
   Cooking Mama (Europe) (En,Fr,It).nds:
     size: 33554432
@@ -11,7 +9,6 @@ downloads:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Cooking%20Mama%20%28Europe%29%20%28En%2CFr%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/cookingmama.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/cookingmama.png
-image_length: 799
 layout: app
 qr:
   Cooking Mama (Europe) (En,Fr,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/cooking-mama-europe-enfrit-nds.png
