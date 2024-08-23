@@ -14,7 +14,7 @@
 
 - Scan the QR Code below:
 
-![NDS-Shop-db.unistore](https://github.com/TheRinzler65/NDS-Shop-db/raw/main/qrcode-NDS-Shop.unistore.png)
+![NDS-Shop-db.unistore](https://github.com/TheRinzler65/NDS-Shop-db/raw/main/qrcode-nds-shop.unistore.png)
 
 - After that, you will be redirected to the UniStore selection menu. Select `NDS-Shop-db.unistore`.
 
