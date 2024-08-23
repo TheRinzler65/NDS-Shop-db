@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonperle/pokemonperle.png",
+		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/pokemonperle/pokemonperle.png",
 		"description": "Game preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Perle%20(France)%20(Rev%20).nds.png",
+		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Perle%20(France)%20(Rev%20).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonperle.png",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonperle.png",
 	"version": "(France)",
 	"updated": "2024-08-07T17:25:20+02:00",
 	"scripts": {
 		"PokemonVersion Perle (France) (Rev ).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Perle%20(France)%20(Rev%20).nds.png",
+				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Perle%20(France)%20(Rev%20).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Perle (France) (Rev ).nds.png"
 			},
 			{
@@ -41,7 +41,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/PokemonVersion%20Perle%20(France)%20(Rev%20).cia",
+				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/forwarder/PokemonVersion%20Perle%20(France)%20(Rev%20).cia",
 				"output": "/PokemonVersion Perle (France) (Rev ).cia"
 			},
 			{

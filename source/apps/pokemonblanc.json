@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/pokemonblanc/pokemonblanc.png",
+		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/pokemonblanc/pokemonblanc.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).nds.png",
+		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc.png",
+	"icon": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonblanc.png",
 	"version": "(France)",
 	"updated": "2024-08-10T16:40:00+02:00",
 	"scripts": {
 		"PokemonVersion Blanche (France) (NDSi Enhanced).nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).nds.png",
+				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Blanche (France) (NDSi Enhanced).nds.png"
 			},
 			{
@@ -41,7 +41,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop/raw/main/forwarder/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).cia",
+				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/forwarder/PokemonVersion%20Blanche%20(France)%20(NDSi%20Enhanced).cia",
 				"output": "/PokemonVersion Blanche (France) (NDSi Enhanced).cia"
 			},
 			{

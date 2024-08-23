@@ -2,21 +2,24 @@
 author: Nintendo
 categories:
 - game
+color: '#90675a'
+color_bg: '#805b50'
 downloads:
   WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds:
     size: 67108864
     size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/WarioMaster%20of%20Disguise%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
-icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
-image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
+icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
+image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/wariomasterofdisguise.png
+image_length: 847
 layout: app
 qr:
-  WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/wariomaster-of-disguise-europe-enfrdeesit-nds.png
+  WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/wariomaster-of-disguise-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
-  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/screenshots/wariomasterofdisguise/wariomasterofdisguise.png
+  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/wariomasterofdisguise/wariomasterofdisguise.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/boxart/WarioMaster%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/WarioMaster%20of%20Disguise%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

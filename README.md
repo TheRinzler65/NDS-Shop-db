@@ -8,8 +8,8 @@ I am partially affiliated with Universal-Updater because we use their program to
 
 ## Installation / Setup
 
-- [In English](https://github.com/TheRinzler65/NDS-Shop/blob/main/tutorial/English.md)
-- [En Français](https://github.com/TheRinzler65/NDS-Shop/blob/main/tutorial/Français.md)
+- [In English](https://github.com/TheRinzler65/NDS-Shop-db/blob/main/tutorial/English.md)
+- [En Français](https://github.com/TheRinzler65/NDS-Shop-db/blob/main/tutorial/Français.md)
 
 
 ## Uses
