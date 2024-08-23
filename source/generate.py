@@ -881,7 +881,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 	if not priorityOnlyMode:
 		# Make tdx
-		with open(path.join(docsDir, "unistore", "NDS-Shop-db.tdx"), "wb") as tdx:
+		with open(path.join(docsDir, "unistore", "nds-shop-db.tdx"), "wb") as tdx:
 			img2tdx(("-gb -gB8 -gzl", *[f"{i}.png" for i in range(iconIndex)]), tdx, imgPath=path.join(tempDir, "32"))
 
 		# Make t3x
@@ -889,10 +889,10 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 			file.write("--atlas -f rgba -z auto\n\n")
 			for i in range(iconIndex):
 				file.write(f"{i}.png\n")
-		system(f"tex3ds -i {path.join(tempDir, '48', 'icons.t3s')} -o {path.join(docsDir, 'unistore', 'NDS-Shop-db.t3x')}")
+		system(f"tex3ds -i {path.join(tempDir, '48', 'icons.t3s')} -o {path.join(docsDir, 'unistore', 'nds-shop-db.t3x')}")
 
 	# Write UniStore and metadata
-	unistore.save(path.join(docsDir, "unistore", "nds-shop.unistore"), path.join(docsDir, "unistore", "NDS-Shop-db-info.json"))
+	unistore.save(path.join(docsDir, "unistore", "nds-shop.unistore"), path.join(docsDir, "unistore", "nds-shop-db.json"))
 
 	# Write output file
 	with open(path.join(docsDir, "data", "full.json"), "w", encoding="utf8") as file:
