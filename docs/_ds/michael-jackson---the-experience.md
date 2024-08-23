@@ -2,8 +2,6 @@
 author: Ubisoft
 categories:
 - game
-color: '#4d3c91'
-color_bg: '#443580'
 downloads:
   Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds:
     size: 67108864
@@ -11,7 +9,6 @@ downloads:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Michael%20JacksonThe%20Experience%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/michaeljackson.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop/main/docs/assets/images/icons/michaeljackson.png
-image_length: 646
 layout: app
 qr:
   Michael JacksonThe Experience (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.netlify.app/assets/images/qr/michael-jacksonthe-experience-europe-enfrdeesit-nds.png

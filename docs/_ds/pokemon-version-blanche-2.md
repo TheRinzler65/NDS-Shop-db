@@ -2,11 +2,8 @@
 author: Nintendo / GameFreak
 categories:
 - game
-color: '#9f7266'
-color_bg: '#805b52'
 icon: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc2.png
 image: https://github.com/TheRinzler65/NDS-Shop/raw/main/docs/assets/images/icons/pokemonblanc2.png
-image_length: 665
 layout: app
 screenshots:
 - description: Game Preview
