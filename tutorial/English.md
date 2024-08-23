@@ -14,9 +14,9 @@
 
 - Scan the QR Code below:
 
-![NDS-Shop-db.unistore](https://github.com/TheRinzler65/NDS-Shop-db/raw/main/qrcode-nds-shop.unistore.png)
+![nds-shop.unistore](https://github.com/TheRinzler65/NDS-Shop-db/raw/main/qrcode-nds-shop.unistore.png)
 
-- After that, you will be redirected to the UniStore selection menu. Select `NDS-Shop-db.unistore`.
+- After that, you will be redirected to the UniStore selection menu. Select `nds-shop.unistore`.
 
 - You will see a catalog of NDS games.
 
