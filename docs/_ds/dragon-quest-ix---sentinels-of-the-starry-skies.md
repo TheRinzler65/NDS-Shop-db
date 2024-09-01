@@ -6,8 +6,6 @@ color: '#6f8c94'
 color_bg: '#607980'
 downloads:
   Dragon Quest IXSentinels of the Starry Skies (Europe) (En,Fr,De,Es,It).nds:
-    size: 268435456
-    size_str: 256 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Dragon%20Quest%20IXSentinels%20of%20the%20Starry%20Skies%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/dragonquestix.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/dragonquestix.png

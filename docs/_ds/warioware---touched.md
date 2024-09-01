@@ -6,8 +6,6 @@ color: '#9f5b3d'
 color_bg: '#804931'
 downloads:
   WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds:
-    size: 33554432
-    size_str: 32 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/WarioWareTouched%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/wariowaretouched.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/wariowaretouched.png

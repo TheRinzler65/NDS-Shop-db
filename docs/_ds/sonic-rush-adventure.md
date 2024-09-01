@@ -6,8 +6,6 @@ color: '#7a7691'
 color_bg: '#6b6880'
 downloads:
   Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds:
-    size: 67108864
-    size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Sonic%20Rush%20Adventure%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%20%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/sonicrushadventure.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/sonicrushadventure.png

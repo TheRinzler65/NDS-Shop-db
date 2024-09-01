@@ -6,8 +6,6 @@ color: '#c8360b'
 color_bg: '#802207'
 downloads:
   Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds:
-    size: 16777216
-    size_str: 16 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Dr%20Kawashima%27s%20Brain%20TrainingHow%20Old%20Is%20Your%20Brain%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/drkawashimabrain.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/drkawashimabrain.png

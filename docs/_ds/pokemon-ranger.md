@@ -6,8 +6,6 @@ color: '#9b3e3a'
 color_bg: '#803330'
 downloads:
   Pokemon Ranger (Europe) (En,Fr,De,Es,It).nds:
-    size: 33554432
-    size_str: 32 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Pokemon%20Ranger%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonranger.png
 image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonranger.png

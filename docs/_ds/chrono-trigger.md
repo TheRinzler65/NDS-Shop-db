@@ -6,8 +6,6 @@ color: '#87533d'
 color_bg: '#804e3a'
 downloads:
   Chrono Trigger (Europe) (En,Fr).nds:
-    size: 134217728
-    size_str: 128 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/chronotrigger.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/chronotrigger.png

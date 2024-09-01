@@ -6,8 +6,6 @@ color: '#8e7b63'
 color_bg: '#806e59'
 downloads:
   Professeur Layton et le Destin Perdu (France).nds:
-    size: 268435456
-    size_str: 256 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png
 image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png

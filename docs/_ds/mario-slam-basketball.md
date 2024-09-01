@@ -6,8 +6,6 @@ color: '#5e7c9a'
 color_bg: '#4e6780'
 downloads:
   Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds:
-    size: 67108864
-    size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Mario%20Slam%20Basketball%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/marioslambasketball.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/marioslambasketball.png

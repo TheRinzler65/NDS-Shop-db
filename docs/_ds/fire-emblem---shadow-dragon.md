@@ -6,8 +6,6 @@ color: '#7a78bb'
 color_bg: '#535280'
 downloads:
   Fire EmblemShadow Dragon (Europe) (En,Fr,De,Es,It).nds:
-    size: 67108864
-    size_str: 64 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Fire%20EmblemShadow%20Dragon%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/shadowemblemdragon.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/shadowemblemdragon.png

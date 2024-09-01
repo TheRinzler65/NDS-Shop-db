@@ -6,8 +6,6 @@ color: '#d28624'
 color_bg: '#805116'
 downloads:
   New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds:
-    size: 33554432
-    size_str: 32 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/New%20Super%20Mario%20Bros.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/newsupermariobros.png
 image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/newsupermariobros.png

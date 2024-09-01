@@ -6,8 +6,6 @@ color: '#36454f'
 color_bg: '#36454f'
 downloads:
   JackassThe Game DS (Europe) (En,Fr,De,Es,It).nds:
-    size: 134217728
-    size_str: 128 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/JackassThe%20Game%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/jackassthegameds.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/jackassthegameds.png

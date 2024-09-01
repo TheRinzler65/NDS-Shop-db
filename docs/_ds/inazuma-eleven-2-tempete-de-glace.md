@@ -6,8 +6,6 @@ color: '#996845'
 color_bg: '#805739'
 downloads:
   Inazuma Eleven 2 - Tempete de Glace (France) (France).nds:
-    size: 268435456
-    size_str: 256 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20Tempete%20de%20Glace%20%28France%29.nds
 icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/inazumaeleventempetedeglace.png
 image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/inazumaeleventempetedeglace.png

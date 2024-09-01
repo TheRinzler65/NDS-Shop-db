@@ -6,8 +6,6 @@ color: '#3e6084'
 color_bg: '#3c5d80'
 downloads:
   Tetris DS (Europe) (En,Fr,De,Es,It).nds:
-    size: 16777216
-    size_str: 16 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Tetris%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/tetrisds.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/tetrisds.png

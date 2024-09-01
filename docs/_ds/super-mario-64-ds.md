@@ -6,8 +6,6 @@ color: '#92586b'
 color_bg: '#804d5d'
 downloads:
   Super MarioDS (Europe) (En,Fr,De,Es,It).nds:
-    size: 16777216
-    size_str: 16 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Super%20MarioDS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/mario64ds.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/mario64ds.png

@@ -6,8 +6,6 @@ color: '#8aae2f'
 color_bg: '#658022'
 downloads:
   Yoshi's Island DS (Europe) (En,Fr,De,Es,It).nds:
-    size: 33554432
-    size_str: 32 MiB
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Yoshi%27s%20Island%20DS%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
 icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/yoshisisland.png
 image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/yoshisisland.png
