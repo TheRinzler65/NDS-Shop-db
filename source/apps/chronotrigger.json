@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Chrono Trigger (Europe) (En,Fr).nds": {
-			"url": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.nds"
+			"url": "https://drive.google.com/uc?export=download&id=1MKM64FjFuE8j-svFAIG2wDd7zJN2SPjp"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://archive.org/download/NintendoDSRomCollectionByGhostware/Chrono%20Trigger%20%28Europe%29%20%28En%2CFr%29.nds",
+                "file": "https://drive.google.com/uc?export=download&id=1MKM64FjFuE8j-svFAIG2wDd7zJN2SPjp",
                 "output": "/roms/nds/Chrono Trigger (Europe) (En,Fr).nds"
             },
             {

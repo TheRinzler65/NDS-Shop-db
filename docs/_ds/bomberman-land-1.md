@@ -6,7 +6,9 @@ color: '#435f75'
 color_bg: '#435f75'
 downloads:
   Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds:
-    url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Bomberman%20Land%20Touch%21%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
+    size: 67108864
+    size_str: 64 MiB
+    url: https://drive.google.com/uc?export=download&id=1jMSp5SS5o9w6x4cBwcTn8SdmpbU9vzgP
 icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/bombermanland1.png
 image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/bombermanland1.png
 image_length: 633
