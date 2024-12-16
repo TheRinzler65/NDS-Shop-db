@@ -178,13 +178,13 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 	tempDir = path.join(path.dirname(sourceFolder), "temp")
 	header = {"Authorization": f"token {ghToken}"} if ghToken else None
 	unistore = UniStore(
-		"NDS-Shop-db",
+		"db-nds-shop",
 		"TheRinzler65",
 		"NDS-Shop-db - An online database of DS games in Universal-Updater",
-		"https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/unistore/nds-shop.unistore",
-		"https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/unistore/nds-shop-db.t3x",
-		"https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/unistore/nds-shop-db.tdx",
-		"https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/unistore/nds-shop-db-info.json"
+		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.unistore",
+		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.t3x",
+		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop.tdx",
+		"https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/unistore/db-nds-shop-info.json"
 	)
 
 	# Fetch info for GitHub apps and output

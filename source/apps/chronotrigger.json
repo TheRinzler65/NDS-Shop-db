@@ -9,7 +9,7 @@
     ],
     "downloads": {
 		"Chrono Trigger (Europe) (En,Fr).nds": {
-			"url": "https://drive.google.com/uc?export=download&id=1MKM64FjFuE8j-svFAIG2wDd7zJN2SPjp"
+			"url": "https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).nds"
 		}
 	},
     "screenshots": [{
@@ -31,7 +31,7 @@
             },
             {
                 "type": "downloadFile",
-                "file": "https://drive.google.com/uc?export=download&id=1MKM64FjFuE8j-svFAIG2wDd7zJN2SPjp",
+                "file": "https://db-nds-shop.fr/games/Chrono%20Trigger%20(Europe)%20(En,Fr).nds",
                 "output": "/roms/nds/Chrono Trigger (Europe) (En,Fr).nds"
             },
             {
