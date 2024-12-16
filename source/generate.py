@@ -892,7 +892,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 		system(f"tex3ds -i {path.join(tempDir, '48', 'icons.t3s')} -o {path.join(docsDir, 'unistore', 'db-nds-shop.t3x')}")
 
 	# Write UniStore and metadata
-	unistore.save(path.join(docsDir, "unistore", "nds-shop.unistore"), path.join(docsDir, "unistore", "db-nds-shop.json"))
+	unistore.save(path.join(docsDir, "unistore", "db-nds-shop.unistore"), path.join(docsDir, "unistore", "db-nds-shop.json"))
 
 	# Write output file
 	with open(path.join(docsDir, "data", "full.json"), "w", encoding="utf8") as file:
