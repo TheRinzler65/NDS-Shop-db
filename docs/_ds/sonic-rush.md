@@ -7,17 +7,17 @@ color_bg: '#555e80'
 downloads:
   Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Sonic%20Rush%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.nds
-icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/sonicrush.png
-image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/sonicrush.png
+icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/sonicrush.png
+image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/sonicrush.png
 image_length: 801
 layout: app
 qr:
-  Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/sonic-rush-europe-enjafrdeesit-nds.png
+  Sonic Rush (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/sonic-rush-europe-enjafrdeesit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/screenshots/sonicrush/sonicrush.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/sonicrush/sonicrush.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/Sonic%20Rush%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Sonic%20Rush%20(Europe)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

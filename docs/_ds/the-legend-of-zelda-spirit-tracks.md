@@ -7,17 +7,17 @@ color_bg: '#80754c'
 downloads:
   Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Legend%20of%20Zelda%2C%20TheSpirit%20Tracks%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
-icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/zeldaspirits.png
-image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/zeldaspirits.png
+icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/zeldaspirits.png
+image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/zeldaspirits.png
 image_length: 818
 layout: app
 qr:
-  Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/legend-of-zelda-thespirit-tracks-europe-enfrdeesit-nds.png
+  Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/legend-of-zelda-thespirit-tracks-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/screenshots/zeldaspirits/zeldaspirits.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/zeldaspirits/zeldaspirits.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/Legend%20of%20Zelda%2C%20TheSpirit%20Tracks%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/Legend%20of%20Zelda%2C%20TheSpirit%20Tracks%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

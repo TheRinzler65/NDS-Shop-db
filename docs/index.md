@@ -5,7 +5,7 @@ permalink: /
 limit: 4
 ---
 
-# Welcome to NDS-Shop-db!
+# Welcome to db-nds-shop!
 {:.i18n .innerHTML-welcome}
 
 Here you can find lists of NDS Games, updated regularly to make sure you're getting the latest versions. Click on the links in the navigation bar at the top to get full lists, or check out some of the most recently updated at the bottom of this page!

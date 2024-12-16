@@ -1,9 +1,9 @@
 # theme       : jekyll-theme-slate
-title       : "NDS-Shop-db"
-description : "NDS-Shop-db - An online database of DS games in Universal-Updater"
-repo        : "TheRinzler65/NDS-Shop-db"
+title       : "db-nds-shop"
+description : "db-nds-shop - An online database of DS games in Universal-Updater"
+repo        : "TheRinzler65/db-nds-shop"
 color       : "#1d8056"
-image       : "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/nds-shop-_logo.png"
+image       : "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/nds-shop-_logo.png"
 
 sass:
   sass_dir: _sass

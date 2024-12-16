@@ -7,15 +7,15 @@ color_bg: '#80502f'
 downloads:
   Inazuma Eleven 2 - Tempete de Feu (France) (France).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Inazuma%20Eleven%20Tempete%20de%20Feu%20%28France%29.nds
-icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
-image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
+icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
+image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/inazumaeleventempetedefeu.png
 image_length: 791
 layout: app
 qr:
-  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
+  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
 screenshots:
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png
 stars: 0
 systems:
 - DS

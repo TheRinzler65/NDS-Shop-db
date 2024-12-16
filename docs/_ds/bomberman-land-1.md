@@ -9,17 +9,17 @@ downloads:
     size: 67108864
     size_str: 64 MiB
     url: https://drive.google.com/uc?export=download&id=1jMSp5SS5o9w6x4cBwcTn8SdmpbU9vzgP
-icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/bombermanland1.png
-image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/bombermanland1.png
+icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland1.png
+image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/bombermanland1.png
 image_length: 633
 layout: app
 qr:
-  Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/bomberman-land-touch-europe-enfrdeesit-nds.png
+  Bomberman Land Touch! (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/bomberman-land-touch-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland1.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/bombermanland1/bombermanland1.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Bomberman%20Land%20Touch!%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

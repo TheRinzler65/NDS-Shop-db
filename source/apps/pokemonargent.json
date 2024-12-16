@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/pokemonargent/pokemonargent.png",
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonargent/pokemonargent.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.nds).png",
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.nds).png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonargent.png",
+	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonargent.png",
 	"version": "(France)",
 	"updated": "2024-08-10T17:13:00+02:00",
 	"scripts": {
 		"PokemonVersion Argent SoulSilver (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.nds).png",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.nds).png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Argent SoulSilver (France) [b].nds).png"
 			},
 			{
@@ -41,7 +41,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/forwarder/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.cia",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/PokemonVersion%20Argent%20SoulSilver%20(France)%20%5Bb%5D.cia",
 				"output": "/PokemonVersion Argent SoulSilver (France) [b].cia"
 			},
 			{

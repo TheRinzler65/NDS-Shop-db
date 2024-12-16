@@ -7,17 +7,17 @@ color_bg: '#805c45'
 downloads:
   NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/NintendogsDachshund%20%26%20Friends%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds
-icon: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/nintendogsdaschund.png
-image: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/icons/nintendogsdaschund.png
+icon: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendogsdaschund.png
+image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/icons/nintendogsdaschund.png
 image_length: 966
 layout: app
 qr:
-  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/nintendogsdachshund--friends-europe-enfrdeesit-nds.png
+  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/nintendogsdachshund--friends-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/screenshots/nintendogsdaschund/nintendogsdaschung.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/nintendogsdaschund/nintendogsdaschung.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/NintendogsDachshund%20%26%20Friends%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/NintendogsDachshund%20%26%20Friends%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).nds.png
 stars: 0
 systems:
 - DS

@@ -1,4 +1,4 @@
-# NDS-Shop-db
+# db-nds-shop
 > An online database of DS games in Universal-Updater
 
 ## Information
@@ -15,8 +15,8 @@ I am partially affiliated with Universal-Updater because we use their program to
 
 ## Installation / Setup
 
-- [In English](https://github.com/TheRinzler65/NDS-Shop-db/blob/main/tutorial/English.md)
-- [En Français](https://github.com/TheRinzler65/NDS-Shop-db/blob/main/tutorial/Français.md)
+- [In English](https://github.com/TheRinzler65/db-nds-shop/blob/main/tutorial/English.md)
+- [En Français](https://github.com/TheRinzler65/db-nds-shop/blob/main/tutorial/Français.md)
 
 
 # Credits

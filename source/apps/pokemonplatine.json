@@ -13,20 +13,20 @@
 		}
 	},
 	"screenshots": [{
-		"url": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png",
+		"url": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png",
 		"description": "Game Preview"
 		},{
-		"url": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
+		"url": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
 		"description": "Boxart"
 	}],
-	"icon": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonplatine.png",
+	"icon": "https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonplatine.png",
 	"version": "(France)",
 	"updated": "2024-08-10T16:26:00+02:00",
 	"scripts": {
 		"PokemonVersion Platine (France) [b].nds": [
 			{
 				"type": "downloadFile",
-				"file": "https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
+				"file": "https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png",
 				"output": "/_nds/TwiLightMenu/boxart/PokemonVersion Platine (France) [b].nds.png"
 			},
 			{
@@ -41,7 +41,7 @@
 			},
 			{
 				"type": "downloadFile",
-				"file": "https://github.com/TheRinzler65/NDS-Shop-db/raw/main/forwarder/PokemonVersion%20Platine%20(France)%20%5Bb%5D.cia",
+				"file": "https://github.com/TheRinzler65/db-nds-shop/raw/main/forwarder/PokemonVersion%20Platine%20(France)%20%5Bb%5D.cia",
 				"output": "/PokemonVersion Platine (France) [b].cia"
 			},
 			{

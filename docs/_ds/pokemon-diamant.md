@@ -7,17 +7,17 @@ color_bg: '#4a6580'
 downloads:
   PokemonVersion Diamant (France) (Rev ).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Diamant%20%28France%29%20%28Rev%20%29.nds
-icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemondiamant.png
-image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemondiamant.png
+icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemondiamant.png
+image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemondiamant.png
 image_length: 502
 layout: app
 qr:
-  PokemonVersion Diamant (France) (Rev ).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
+  PokemonVersion Diamant (France) (Rev ).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
 screenshots:
 - description: Game preview
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/PokemonVersion%20Diamant%20(France)%20(Rev%20).nds.png
 stars: 0
 systems:
 - DS

@@ -7,17 +7,17 @@ color_bg: '#806e59'
 downloads:
   Professeur Layton et le Destin Perdu (France).nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/Professeur%20Layton%20et%20le%20Destin%20Perdu%20%28France%29.nds
-icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png
-image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png
+icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png
+image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/professeurlaytonetledestinperdu.png
 image_length: 460
 layout: app
 qr:
-  Professeur Layton et le Destin Perdu (France).nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/professeur-layton-et-le-destin-perdu-france-nds.png
+  Professeur Layton et le Destin Perdu (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/professeur-layton-et-le-destin-perdu-france-nds.png
 screenshots:
 - description: Game Preview
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots/professeurlaytonetledestinperdu/professeurlaytonetledestinperdu.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/professeurlaytonetledestinperdu/professeurlaytonetledestinperdu.png
 - description: Boxart
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20le%20Destin%20Perdu%20(France).nds.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Professeur%20Layton%20et%20le%20Destin%20Perdu%20(France).nds.png
 stars: 0
 systems:
 - DS

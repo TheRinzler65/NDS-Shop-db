@@ -7,17 +7,17 @@ color_bg: '#806e35'
 downloads:
   PokemonVersion Platine (France) [b].nds:
     url: https://archive.org/download/NintendoDSRomCollectionByGhostware/PokemonVersion%20Platine%20%28France%29%20%5Bb%5D.nds
-icon: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonplatine.png
-image: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/icons/pokemonplatine.png
+icon: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonplatine.png
+image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/icons/pokemonplatine.png
 image_length: 499
 layout: app
 qr:
-  PokemonVersion Platine (France) [b].nds: https://db-NDS-Shop-db.netlify.app/assets/images/qr/pokemonversion-platine-france-b-nds.png
+  PokemonVersion Platine (France) [b].nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-platine-france-b-nds.png
 screenshots:
 - description: Game Preview
-  url: https://github.com/TheRinzler65/NDS-Shop-db/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png
+  url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png
 - description: Boxart
-  url: https://raw.githubusercontent.com/TheRinzler65/NDS-Shop-db/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png
+  url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/boxart/PokemonVersion%20Platine%20(France)%20%5Bb%5D.nds.png
 stars: 0
 systems:
 - DS
