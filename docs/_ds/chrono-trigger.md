@@ -1,5 +1,5 @@
 ---
-author: Square Enix.
+author: Square Enix
 categories:
 - game
 color: '#87533d'
