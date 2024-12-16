@@ -565,7 +565,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 				for screenshot in dirlist:
 					if screenshot[-3:] in ["png", "gif", "jpg", "peg", "iff", "bmp"]:
 						app["screenshots"].append({
-							"url": f"https://db-db-nds-shop.netlify.app/assets/images/screenshots/{webName(app['title'])}/{screenshot}",
+							"url": f"https://db-nds-shop.fr/assets/images/screenshots/{webName(app['title'])}/{screenshot}",
 							"description": screenshot[:screenshot.rfind(".")].capitalize().replace("-", " ")
 						})
 
@@ -577,7 +577,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 			if "downloads" in app:
 				for download in app["downloads"]:
 					if "size" not in app["downloads"][download]:
-						if app["downloads"][download]["url"][:30] == "https://db-db-nds-shop.netlify.app/":
+						if app["downloads"][download]["url"][:30] == "https://db-nds-shop.fr/":
 							app["downloads"][download]["size"] = path.getsize(path.join(docsDir, app['downloads'][download]['url'][30:]))
 							app["downloads"][download]["size_str"] = byteCount(app["downloads"][download]["size"])
 						else:
@@ -589,10 +589,10 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 			# Check for local icon / image
 			for ext in (".png", ".gif"):
 				if "icon" not in app and path.exists(path.join(docsDir, "assets", "images", "icons", webName(app['title']) + ext)):
-					app["icon"] = f"https://db-db-nds-shop.netlify.app/assets/images/icons/{webName(app['title'])}{ext}"
+					app["icon"] = f"https://db-nds-shop.fr/assets/images/icons/{webName(app['title'])}{ext}"
 
 			if "image" not in app and path.exists(path.join(docsDir, "assets", "images", "images", f"{webName(app['title'])}.png")):
-				app["image"] = f"https://db-db-nds-shop.netlify.app/assets/images/images/{webName(app['title'])}.png"
+				app["image"] = f"https://db-nds-shop.fr/assets/images/images/{webName(app['title'])}.png"
 			elif "image" not in app and "icon" in app:
 				app["image"] = app["icon"]
 			elif "image" not in app and "avatar" in app:
@@ -602,7 +602,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 			# Get image size
 			if "image_length" not in app and "image" in app:
-				if app["image"][:30] == "https://db-db-nds-shop.netlify.app/":
+				if app["image"][:30] == "https://db-nds-shop.fr/":
 					app["image_length"] = path.getsize(path.join(docsDir, app["image"][30:]))
 				else:
 					r = requests.head(app["image"], allow_redirects=True)
@@ -619,7 +619,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 				url = app["icon_static"] if "icon_static" in app else (app["icon"] if "icon" in app else app["image"] if "image" in app else "")
 				file = None
-				if url[:30] == "https://db-db-nds-shop.netlify.app/":
+				if url[:30] == "https://db-nds-shop.fr/":
 					file = open(path.join(docsDir, url[30:]), "rb")
 				else:
 					r = requests.get(url)
@@ -647,10 +647,10 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 					if "icon" in app and app["icon"].endswith(".bmp"):
 						copyfile(path.join(tempDir, "48", f"{iconIndex}.png"), path.join(docsDir, "assets", "images", "icons", f"{webName(app['title'])}.png"))
-						app["icon"] = f"https://db-db-nds-shop.netlify.app/assets/images/icons/{webName(app['title'])}.png"
+						app["icon"] = f"https://db-nds-shop.fr/assets/images/icons/{webName(app['title'])}.png"
 					elif "icon_static" not in app and "icon" in app and app["icon"].endswith(".gif"):
 						copyfile(path.join(tempDir, "48", f"{iconIndex}.png"), path.join(docsDir, "assets", "images", "icons", f"{webName(app['title'])}.png"))
-						app["icon_static"] = f"https://db-db-nds-shop.netlify.app/assets/images/icons/{webName(app['title'])}.png"
+						app["icon_static"] = f"https://db-nds-shop.fr/assets/images/icons/{webName(app['title'])}.png"
 
 					if "image" in app and app["image"].endswith(".bmp"):
 						app["image"] = app["icon"]
@@ -663,7 +663,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 
 			app["urls"] = []
 			for sys in app["systems"]:
-				app["urls"].append(f"https://db-db-nds-shop.netlify.app/{sys.lower()}/{app['slug']}")
+				app["urls"].append(f"https://db-nds-shop.fr/{sys.lower()}/{app['slug']}")
 
 		# Make QR
 		if doUpdate:
@@ -688,7 +688,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 						qr.save(path.join(docsDir, "assets", "images", "qr", f"{webName(item)}.png"))
 						if "qr" not in app:
 							app["qr"] = {}
-						app["qr"][item] = f"https://db-db-nds-shop.netlify.app/assets/images/qr/{webName(item)}.png"
+						app["qr"][item] = f"https://db-nds-shop.fr/assets/images/qr/{webName(item)}.png"
 
 			if "prerelease" in app:
 				for item in app["prerelease"]["downloads"]:
@@ -713,7 +713,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 						qr.save(path.join(docsDir, "assets", "images", "qr", "prerelease", f"{webName(item)}.png"))
 						if "qr" not in app["prerelease"]:
 							app["prerelease"]["qr"] = {}
-						app["prerelease"]["qr"][item] = f"https://db-db-nds-shop.netlify.app/assets/images/qr/prerelease/{webName(item)}.png"
+						app["prerelease"]["qr"][item] = f"https://db-nds-shop.fr/assets/images/qr/prerelease/{webName(item)}.png"
 
 			if "nightly" in app:
 				for item in app["nightly"]["downloads"]:
@@ -736,7 +736,7 @@ def main(sourceFolder, docsDir: str, ghToken: str, priorityOnlyMode: bool) -> No
 						qr.save(path.join(docsDir, "assets", "images", "qr", "nightly", f"{webName(item)}.png"))
 						if "qr" not in app["nightly"]:
 							app["nightly"]["qr"] = {}
-						app["nightly"]["qr"][item] = f"https://db-db-nds-shop.netlify.app/assets/images/qr/nightly/{webName(item)}.png"
+						app["nightly"]["qr"][item] = f"https://db-nds-shop.fr/assets/images/qr/nightly/{webName(item)}.png"
 
 		# Add to output json
 		output.append(app)
