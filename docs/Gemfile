@@ -16,9 +16,6 @@ gem "jekyll", "~> 4.3.3"
 
 # If you have any plugins, put them here!
 
-gem "csv"
-gem "base64"
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
