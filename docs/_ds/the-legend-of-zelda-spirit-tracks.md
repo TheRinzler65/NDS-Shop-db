@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 818
 layout: app
 qr:
-  Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/legend-of-zelda-thespirit-tracks-europe-enfrdeesit-nds.png
+  Legend of Zelda, TheSpirit Tracks (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/legend-of-zelda-thespirit-tracks-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/zeldaspirits/zeldaspirits.png

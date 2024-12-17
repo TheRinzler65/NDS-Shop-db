@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 602
 layout: app
 qr:
-  WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/wariowaretouched-europe-enfrdeesit-nds.png
+  WarioWareTouched! (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/wariowaretouched-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/wariowaretouched/wariowaretouched.png

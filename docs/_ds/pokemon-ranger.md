@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 611
 layout: app
 qr:
-  Pokemon Ranger (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemon-ranger-europe-enfrdeesit-nds.png
+  Pokemon Ranger (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/pokemon-ranger-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonranger/pokemonranger.png

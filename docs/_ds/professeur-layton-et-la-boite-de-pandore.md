@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 460
 layout: app
 qr:
-  Professeur Layton et la Boite de Pandore (France) [b].nds: https://db-db-nds-shop.netlify.app/assets/images/qr/professeur-layton-et-la-boite-de-pandore-france-b-nds.png
+  Professeur Layton et la Boite de Pandore (France) [b].nds: https://db-nds-shop.fr/assets/images/qr/professeur-layton-et-la-boite-de-pandore-france-b-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/professeurlaytonetlaboitedepandore/professeurlaytonetlaboitedepandore.png

@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 421
 layout: app
 qr:
-  Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/dr-kawashimas-brain-traininghow-old-is-your-brain-europe-enfrdeesitnl-nds.png
+  Dr Kawashima's Brain TrainingHow Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds: https://db-nds-shop.fr/assets/images/qr/dr-kawashimas-brain-traininghow-old-is-your-brain-europe-enfrdeesitnl-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/drkawashimabrain/drkawashimabrain.png

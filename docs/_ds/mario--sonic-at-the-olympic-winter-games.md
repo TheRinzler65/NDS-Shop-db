@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 985
 layout: app
 qr:
-  Mario & Sonic at the Olympic Winter Games (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/mario--sonic-at-the-olympic-winter-games-europe-enfrdeesit-nds.png
+  Mario & Sonic at the Olympic Winter Games (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/mario--sonic-at-the-olympic-winter-games-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/mario%26sonicwinterjo/mario%26sonicwinterjo.png

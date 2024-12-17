@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 938
 layout: app
 qr:
-  Code Lyoko (Europe) (En,Fr,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/code-lyoko-europe-enfresit-nds.png
+  Code Lyoko (Europe) (En,Fr,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/code-lyoko-europe-enfresit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/codelyoko/codelyoko.png

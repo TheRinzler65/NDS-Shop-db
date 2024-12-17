@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 761
 layout: app
 qr:
-  Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/mario-party-ds-europe-enfrdeesit-rev--nds.png
+  Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev ).nds: https://db-nds-shop.fr/assets/images/qr/mario-party-ds-europe-enfrdeesit-rev--nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/mariopartyds/mariopartyds.png

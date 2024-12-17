@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 833
 layout: app
 qr:
-  Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/sonic-rush-adventure-europe-enjafrdeesit-rev--nds.png
+  Sonic Rush Adventure (Europe) (En,Ja,Fr,De,Es,It) (Rev ).nds: https://db-nds-shop.fr/assets/images/qr/sonic-rush-adventure-europe-enjafrdeesit-rev--nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/sonicrushadventure/sonicrushadventure.png

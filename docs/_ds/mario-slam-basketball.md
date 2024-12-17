@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 497
 layout: app
 qr:
-  Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/mario-slam-basketball-europe-enjafrdeesit-nds.png
+  Mario Slam Basketball (Europe) (En,Ja,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/mario-slam-basketball-europe-enjafrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/marioslambasketball/marioslambasketball.png

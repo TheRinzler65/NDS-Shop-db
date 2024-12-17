@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 552
 layout: app
 qr:
-  PokemonVersion Argent SoulSilver (France) [b].nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-argent-soulsilver-france-b-nds.png
+  PokemonVersion Argent SoulSilver (France) [b].nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-argent-soulsilver-france-b-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonargent/pokemonargent.png

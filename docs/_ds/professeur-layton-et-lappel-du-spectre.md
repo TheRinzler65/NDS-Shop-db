@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 493
 layout: app
 qr:
-  Professeur Layton et l'Appel du Spectre (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/professeur-layton-et-lappel-du-spectre-france-nds.png
+  Professeur Layton et l'Appel du Spectre (France).nds: https://db-nds-shop.fr/assets/images/qr/professeur-layton-et-lappel-du-spectre-france-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/professeurlaytonetlappelduspectre/professeurlaytonetlappelduspectre.png

@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 937
 layout: app
 qr:
-  Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/diddy-kong-racing-ds-europe-enfrdeesit-nds.png
+  Diddy Kong Racing DS (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/diddy-kong-racing-ds-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/diddykongracing/diddykongracing.png

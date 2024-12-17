@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 723
 layout: app
 qr:
-  Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/code-lyokofall-of-x-a-n-a--europe-enfr-nds.png
+  Code LyokoFall of X.A.N.A. (Europe) (En,Fr).nds: https://db-nds-shop.fr/assets/images/qr/code-lyokofall-of-x-a-n-a--europe-enfr-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/codelyokoxana/codelyokoxana.png

@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 871
 layout: app
 qr:
-  Super MarioDS (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/super-mariods-europe-enfrdeesit-nds.png
+  Super MarioDS (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/super-mariods-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/supermario64ds/supermario64ds.png

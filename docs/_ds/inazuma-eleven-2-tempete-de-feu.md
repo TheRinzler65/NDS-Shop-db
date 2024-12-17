@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 791
 layout: app
 qr:
-  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
+  Inazuma Eleven 2 - Tempete de Feu (France) (France).nds: https://db-nds-shop.fr/assets/images/qr/inazuma-eleven-2---tempete-de-feu-france-france-nds.png
 screenshots:
 - description: Boxart
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Inazuma%20Eleven%202%20-%20Tempete%20de%20Feu%20(France).nds.png

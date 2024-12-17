@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 823
 layout: app
 qr:
-  Inazuma Eleven (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/inazuma-eleven-france-nds.png
+  Inazuma Eleven (France).nds: https://db-nds-shop.fr/assets/images/qr/inazuma-eleven-france-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/inazumaeleven/inazumaeleven.png

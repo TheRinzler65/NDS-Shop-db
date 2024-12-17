@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 799
 layout: app
 qr:
-  Cooking Mama (Europe) (En,Fr,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/cooking-mama-europe-enfrit-nds.png
+  Cooking Mama (Europe) (En,Fr,It).nds: https://db-nds-shop.fr/assets/images/qr/cooking-mama-europe-enfrit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/cookingmama/cookingmama.png

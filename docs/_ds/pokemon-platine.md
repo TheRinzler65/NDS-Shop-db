@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 499
 layout: app
 qr:
-  PokemonVersion Platine (France) [b].nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-platine-france-b-nds.png
+  PokemonVersion Platine (France) [b].nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-platine-france-b-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots//pokemonplatine/pokemonplatine.png

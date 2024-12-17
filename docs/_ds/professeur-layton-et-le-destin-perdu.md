@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 460
 layout: app
 qr:
-  Professeur Layton et le Destin Perdu (France).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/professeur-layton-et-le-destin-perdu-france-nds.png
+  Professeur Layton et le Destin Perdu (France).nds: https://db-nds-shop.fr/assets/images/qr/professeur-layton-et-le-destin-perdu-france-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/professeurlaytonetledestinperdu/professeurlaytonetledestinperdu.png

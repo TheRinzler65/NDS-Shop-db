@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 813
 layout: app
 qr:
-  NintendogsChihuahua & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/nintendogschihuahua--friends-europe-enfrdeesit-nds.png
+  NintendogsChihuahua & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/nintendogschihuahua--friends-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/nintendogschihuahua/nintendogschihuahua.png

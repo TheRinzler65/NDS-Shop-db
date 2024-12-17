@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 966
 layout: app
 qr:
-  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/nintendogsdachshund--friends-europe-enfrdeesit-nds.png
+  NintendogsDachshund & Friends (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/nintendogsdachshund--friends-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/nintendogsdaschund/nintendogsdaschung.png

@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 508
 layout: app
 qr:
-  Fire EmblemShadow Dragon (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/fire-emblemshadow-dragon-europe-enfrdeesit-nds.png
+  Fire EmblemShadow Dragon (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/fire-emblemshadow-dragon-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/fireemblemshadowdragon/fireemblemshadowdragon.png

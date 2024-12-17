@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 620
 layout: app
 qr:
-  New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/new-super-mario-bros--europe-enfrdeesit-nds.png
+  New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/new-super-mario-bros--europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/newsupermariobros/newsupermariobros.png

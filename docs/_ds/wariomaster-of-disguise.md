@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 847
 layout: app
 qr:
-  WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/wariomaster-of-disguise-europe-enfrdeesit-nds.png
+  WarioMaster of Disguise (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/wariomaster-of-disguise-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/wariomasterofdisguise/wariomasterofdisguise.png

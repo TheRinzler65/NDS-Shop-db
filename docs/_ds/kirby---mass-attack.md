@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 1019
 layout: app
 qr:
-  KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/kirbymass-attack-europe-enfrdeesit-nds.png
+  KirbyMass Attack (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/kirbymass-attack-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/kirbymassattack/kirbymassattack.png

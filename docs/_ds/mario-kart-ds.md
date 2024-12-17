@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 940
 layout: app
 qr:
-  Mario Kart DS (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/mario-kart-ds-europe-enfrdeesit-nds.png
+  Mario Kart DS (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/mario-kart-ds-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/mariokartds/mariokartds.png

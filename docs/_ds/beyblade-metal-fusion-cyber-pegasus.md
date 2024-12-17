@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 1069
 layout: app
 qr:
-  Beyblade Metal FusionCyber Pegasus (Europe) [b].nds: https://db-db-nds-shop.netlify.app/assets/images/qr/beyblade-metal-fusioncyber-pegasus-europe-b-nds.png
+  Beyblade Metal FusionCyber Pegasus (Europe) [b].nds: https://db-nds-shop.fr/assets/images/qr/beyblade-metal-fusioncyber-pegasus-europe-b-nds.png
 screenshots:
 - description: Boxart
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/boxart/Beyblade%20Metal%20Fusion%20-%20Cyber%20Pegasus%20(Europe).nds.png

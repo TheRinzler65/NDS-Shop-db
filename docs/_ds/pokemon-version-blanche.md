@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 488
 layout: app
 qr:
-  PokemonVersion Blanche (France) (NDSi Enhanced).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-blanche-france-ndsi-enhanced-nds.png
+  PokemonVersion Blanche (France) (NDSi Enhanced).nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-blanche-france-ndsi-enhanced-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemonblanc/pokemonblanc.png

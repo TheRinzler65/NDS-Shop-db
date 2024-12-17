@@ -12,7 +12,7 @@ image: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/asse
 image_length: 1109
 layout: app
 qr:
-  Chrono Trigger (Europe) (En,Fr).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/chrono-trigger-europe-enfr-nds.png
+  Chrono Trigger (Europe) (En,Fr).nds: https://db-nds-shop.fr/assets/images/qr/chrono-trigger-europe-enfr-nds.png
 screenshots:
 - description: Game preview
   url: https://raw.githubusercontent.com/TheRinzler65/db-nds-shop/main/docs/assets/images/screenshots/chronotrigger/chronotrigger.png

@@ -12,7 +12,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 502
 layout: app
 qr:
-  PokemonVersion Diamant (France) (Rev ).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
+  PokemonVersion Diamant (France) (Rev ).nds: https://db-nds-shop.fr/assets/images/qr/pokemonversion-diamant-france-rev--nds.png
 screenshots:
 - description: Game preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/pokemondiamant/pokemondiamant.png

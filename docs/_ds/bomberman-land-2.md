@@ -14,7 +14,7 @@ image: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/i
 image_length: 714
 layout: app
 qr:
-  Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds: https://db-db-nds-shop.netlify.app/assets/images/qr/bomberman-land-touch-2-europe-enfrdeesit-nds.png
+  Bomberman Land Touch! 2 (Europe) (En,Fr,De,Es,It).nds: https://db-nds-shop.fr/assets/images/qr/bomberman-land-touch-2-europe-enfrdeesit-nds.png
 screenshots:
 - description: Game Preview
   url: https://github.com/TheRinzler65/db-nds-shop/raw/main/docs/assets/images/screenshots/bombermanland2/bombermanland2.png
